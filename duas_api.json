@@ -1,0 +1,2303 @@
+[
+  {
+    "id": "d1",
+    "arabic": "اللَّهُمَّ أَنْتَ رَبِّي لَا إِلَهَ إِلَّا أَنْتَ، خَلَقْتَنِي وَأَنَا عَبْدُكَ، وَأَنَا عَلَى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ، أَعُوذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ، أَبُوءُ لَكَ بِنِعْمَتِكَ عَلَيَّ، وَأَبُوءُ بِذَنْبِي فَاغْفِرْ لِي فَإِنَّهُ لَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ",
+    "category": {
+      "tr": "Sabah & Akşam",
+      "en": "Morning & Evening",
+      "ar": "الصباح والمساء",
+      "de": "Morgen & Abend",
+      "fr": "Matin & Soir",
+      "nl": "Ochtend & Avond",
+      "uz": "Ertalab va Kechqurun",
+      "ms": "Pagi & Petang",
+      "ru": "Утро и Вечер"
+    },
+    "title": {
+      "tr": "Seyyidü'l İstiğfar (Bağışlanma Duası)",
+      "en": "Sayyidu'l Istighfar (Prayer for Forgiveness)",
+      "ar": "سيد الاستغفار (صلاة الاستغفار)",
+      "de": "Sayyidul Istighfar (Gebet um Vergebung)",
+      "fr": "Sayyidul Istighfar (Prière de pardon)",
+      "nl": "Sayyidul Istighfar (Gebed om vergeving)",
+      "uz": "Sayyidul Istig'for (Kechirim so'rash duosi)",
+      "ms": "Sayyidul Istighfar (Penghulu Istighfar)",
+      "ru": "Саййидуль Истигфар (Молитва о прощении)"
+    },
+    "pronunciation": {
+      "tr": "Allâhümme ente Rabbî lâ ilâhe illâ ente halaktenî ve ene abdüke ve ene alâ ahdike ve va'dike mesteta'tü. Eûzü bike min şerri mâ sana'tü, ebûü leke bi-ni'metike aleyye ve ebûü bi-zenbî fağfirlî fe-innehû lâ yağfiru'z-zünûbe illâ ente.",
+      "en": "Allâhümme ente Rabbî lâ ilâhe illâ ente halaktenî ve ene abdüke ve ene alâ ahdike ve va'dike mesteta'tü. Eûzü bike min şerri mâ sana'tü, ebûü leke bi-ni'metike aleyye ve ebûü bi-zenbî fağfirlî fe-innehû lâ yağfiru'z-zünûbe illâ ente.",
+      "ar": "Allâhümme ente Rabbî lâ ilâhe illâ ente halaktenî ve ene abdüke ve ene alâ ahdike ve va'dike mesteta'tü. Eûzü bike min şerri mâ sana'tü, ebûü leke bi-ni'metike aleyye ve ebûü bi-zenbî fağfirlî fe-innehû lâ yağfiru'z-zünûbe illâ ente.",
+      "de": "Allâhümme ente Rabbî lâ ilâhe illâ ente halaktenî ve ene abdüke ve ene alâ ahdike ve va'dike mesteta'tü. Eûzü bike min şerri mâ sana'tü, ebûü leke bi-ni'metike aleyye ve ebûü bi-zenbî fağfirlî fe-innehû lâ yağfiru'z-zünûbe illâ ente.",
+      "fr": "Allâhümme ente Rabbî lâ ilâhe illâ ente halaktenî ve ene abdüke ve ene alâ ahdike ve va'dike mesteta'tü. Eûzü bike min şerri mâ sana'tü, ebûü leke bi-ni'metike aleyye ve ebûü bi-zenbî fağfirlî fe-innehû lâ yağfiru'z-zünûbe illâ ente.",
+      "nl": "Allâhümme ente Rabbî lâ ilâhe illâ ente halaktenî ve ene abdüke ve ene alâ ahdike ve va'dike mesteta'tü. Eûzü bike min şerri mâ sana'tü, ebûü leke bi-ni'metike aleyye ve ebûü bi-zenbî fağfirlî fe-innehû lâ yağfiru'z-zünûbe illâ ente.",
+      "uz": "Allâhümme ente Rabbî lâ ilâhe illâ ente halaktenî ve ene abdüke ve ene alâ ahdike ve va'dike mesteta'tü. Eûzü bike min şerri mâ sana'tü, ebûü leke bi-ni'metike aleyye ve ebûü bi-zenbî fağfirlî fe-innehû lâ yağfiru'z-zünûbe illâ ente.",
+      "ms": "Allâhümme ente Rabbî lâ ilâhe illâ ente halaktenî ve ene abdüke ve ene alâ ahdike ve va'dike mesteta'tü. Eûzü bike min şerri mâ sana'tü, ebûü leke bi-ni'metike aleyye ve ebûü bi-zenbî fağfirlî fe-innehû lâ yağfiru'z-zünûbe illâ ente.",
+      "ru": "Allâhümme ente Rabbî lâ ilâhe illâ ente halaktenî ve ene abdüke ve ene alâ ahdike ve va'dike mesteta'tü. Eûzü bike min şerri mâ sana'tü, ebûü leke bi-ni'metike aleyye ve ebûü bi-zenbî fağfirlî fe-innehû lâ yağfiru'z-zünûbe illâ ente."
+    },
+    "translation": {
+      "tr": "Allah'ım! Sen benim Rabbimsin. Senden başka ilah yoktur. Beni sen yarattın ve ben senin kulunum. Gücüm yettiğince sana verdiğim söz ve ahid üzerindeyim. Yaptıklarımın şerrinden sana sığınırım. Üzerimdeki nimetini itiraf eder, günahımı da kabul ederim. Beni bağışla; çünkü günahları yalnızca sen bağışlarsın.",
+      "en": "My God! You are my Lord. There is no god but you. You created me and I am your servant. I am keeping the promise and covenant I made to you as much as I can. I seek refuge in you from the evil of what I have done. I confess your blessing on me and I also accept my sins. Forgive me; Because only you forgive sins.",
+      "ar": "اللهم أنت ربي لا إله إلا أنت، خلقتني وأنا عبدك، وأنا على عهدك ووعدك ما استطعت، أعوذ بك من شر ما صنعت، أبوء لك بنعمتك علي، وأبوء بذنبي فاغفر لي فإنه لا يغفر الذنوب إلا أنت.",
+      "de": "O Allah! Du bist mein Herr. Es gibt keinen Gott außer Dir. Du hast mich erschaffen und ich bin Dein Diener. Ich halte mich an mein Versprechen und meinen Bund mit Dir, so gut ich kann. Ich suche Zuflucht bei Dir vor dem Bösen, das ich getan habe. Ich erkenne Deine Gnade an mir an und ich bekenne meine Sünden. Vergib mir, denn niemand vergibt Sünden außer Dir.",
+      "fr": "Ô Allah ! Tu es mon Seigneur. Il n'y a de divinité que Toi. Tu m'as créé et je suis Ton serviteur. Je suis fidèle à mon engagement et à ma promesse envers Toi autant que je le peux. Je cherche refuge auprès de Toi contre le mal que j'ai commis. Je reconnais Tes bienfaits à mon égard et j'avoue mes péchés. Pardonne-moi, car nul autre que Toi ne pardonne les péchés.",
+      "nl": "O Allah! U bent mijn Heer. Er is geen god dan U. U heeft mij geschapen en ik ben Uw dienaar. Ik houd mij aan mijn belofte en verbond met U zoveel ik kan. Ik zoek mijn toevlucht bij U tegen het kwaad dat ik heb gedaan. Ik erken Uw zegeningen voor mij en ik beken mijn zonden. Vergeef mij, want niemand vergeeft zonden behalve U.",
+      "uz": "Yo Alloh! Sen mening Parvardigorimsan. Sendan boshqa iloh yo'q. Meni Sen yaratding va men Sening bandangman. Qodir bo'lganimcha Senga bergan va'dam va ahdimdaman. Qilgan ishlarimning yomonligidan Sendan panoh tilayman. Menga bergan ne'matlaringni e'tirof etaman va gunohlarimni ham tan olaman. Meni kechir, chunki gunohlarni faqat Sen kechirasan.",
+      "ms": "Ya Allah! Engkaulah Tuhanku. Tiada tuhan melainkan Engkau. Engkau yang menciptakan daku dan aku adalah hamba-Mu. Aku berpegang dengan janji dan ikatan-Mu sekadar kemampuanku. Aku berlindung dengan-Mu daripada kejahatan yang telah aku lakukan. Aku mengakui nikmat-Mu kepadaku dan aku juga mengakui dosa-dosaku. Ampunilah daku, kerana sesungguhnya tiada yang mengampunkan dosa melainkan Engkau.",
+      "ru": "О Аллах! Ты — мой Господь. Нет божества, кроме Тебя. Ты создал меня, и я — Твой раб. Я верен обещанию и завету, данному Тебе, насколько у меня хватает сил. Я прибегаю к Тебе от зла того, что я совершил. Я признаю Твою милость ко мне и признаю свои грехи. Прости меня, ибо никто не прощает грехов, кроме Тебя."
+    },
+    "source": {
+      "tr": "Buhârî, Deavât, 2",
+      "en": "Bukhari, Da'awat, 2",
+      "ar": "البخاري، الدعوات، ٢",
+      "de": "Bukhari, Da'awat, 2",
+      "fr": "Boukhari, Da'awat, 2",
+      "nl": "Bukhari, Da'awat, 2",
+      "uz": "Buxoriy, Daavot, 2",
+      "ms": "Bukhari, Da'awat, 2",
+      "ru": "Бухари, Даават, 2"
+    }
+  },
+  {
+    "id": "d2",
+    "arabic": "أَصْبَحْنَا وَأَصْبَحَ الْمُلْكُ لِلَّهِ، وَالْحَمْدُ لِلَّهِ، لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ",
+    "category": {
+      "tr": "Sabah & Akşam",
+      "en": "Morning & Evening",
+      "ar": "الصباح والمساء",
+      "de": "Morgen & Abend",
+      "fr": "Matin & Soir",
+      "nl": "Ochtend & Avond",
+      "uz": "Ertalab va Kechqurun",
+      "ms": "Pagi & Petang",
+      "ru": "Утро и Вечер"
+    },
+    "title": {
+      "tr": "Sabah Duaları (Güne Başlarken)",
+      "en": "Morning Prayers (Starting the Day)",
+      "ar": "صلاة الصباح (بدء اليوم)",
+      "de": "Morgengebete (Den Tag beginnen)",
+      "fr": "Prières du matin (Commencer la journée)",
+      "nl": "Ochtendgebeden (De dag beginnen)",
+      "uz": "Tonggi duolar (Kunni boshlash)",
+      "ms": "Doa Pagi (Memulakan Hari)",
+      "ru": "Утренние молитвы (Начало дня)"
+    },
+    "pronunciation": {
+      "tr": "Asbahnâ ve asbaha'l-mülkü lillâhi ve'l-hamdü lillâhi lâ ilâhe illallâhu vahdehû lâ şerîke leh.",
+      "en": "Asbahnâ ve asbaha'l-mülkü lillâhi ve'l-hamdü lillâhi lâ ilâhe illallâhu vahdehû lâ şerîke leh.",
+      "ar": "Asbahnâ ve asbaha'l-mülkü lillâhi ve'l-hamdü lillâhi lâ ilâhe illallâhu vahdehû lâ şerîke leh.",
+      "de": "Asbahnâ ve asbaha'l-mülkü lillâhi ve'l-hamdü lillâhi lâ ilâhe illallâhu vahdehû lâ şerîke leh.",
+      "fr": "Asbahnâ ve asbaha'l-mülkü lillâhi ve'l-hamdü lillâhi lâ ilâhe illallâhu vahdehû lâ şerîke leh.",
+      "nl": "Asbahnâ ve asbaha'l-mülkü lillâhi ve'l-hamdü lillâhi lâ ilâhe illallâhu vahdehû lâ şerîke leh.",
+      "uz": "Asbahnâ ve asbaha'l-mülkü lillâhi ve'l-hamdü lillâhi lâ ilâhe illallâhu vahdehû lâ şerîke leh.",
+      "ms": "Asbahnâ ve asbaha'l-mülkü lillâhi ve'l-hamdü lillâhi lâ ilâhe illallâhu vahdehû lâ şerîke leh.",
+      "ru": "Asbahnâ ve asbaha'l-mülkü lillâhi ve'l-hamdü lillâhi lâ ilâhe illallâhu vahdehû lâ şerîke leh."
+    },
+    "translation": {
+      "tr": "Biz de sabaha eriştik, mülk de Allah'ın olarak sabaha erdi. Hamd Allah'a mahsustur. Allah'tan başka ilah yoktur, O tektir ve hiçbir ortağı yoktur.",
+      "en": "We have reached the morning, and the sovereignty belongs to Allah. Praise be to Allah. There is no god but Allah, He is alone and has no partners.",
+      "ar": "أصبحنا وأصبح الملك لله، والحمد لله، لا إله إلا الله وحده لا شريك له.",
+      "de": "Wir haben den Morgen erreicht und die Herrschaft gehört Allah. Alles Lob gebührt Allah. Es gibt keinen Gott außer Allah, Er ist einzig und hat keine Partner.",
+      "fr": "Nous sommes au matin et la royauté appartient à Allah. Louange à Allah. Il n'y a de divinité qu'Allah, Seul et sans associé.",
+      "nl": "We hebben de ochtend bereikt, en de heerschappij behoort toe aan Allah. Alle lof zij Allah. Er is geen god dan Allah, Hij is alleen en heeft geen deelgenoten.",
+      "uz": "Biz ham tongga yetdik, mulk ham Allohniki bo'lib tongga yetdi. Barcha hamd Allohga xosdir. Allohdan boshqa iloh yo'q, U yagonadir va sherigi yo'qdir.",
+      "ms": "Kami telah memasuki waktu pagi, dan kekuasaan itu milik Allah. Segala puji bagi Allah. Tiada tuhan melainkan Allah yang Maha Esa, tiada sekutu bagi-Nya.",
+      "ru": "Мы дожили до утра, и власть принадлежит Аллаху. Хвала Аллаху. Нет божества, кроме Аллаха, Он един и у Него нет сотоварищей."
+    },
+    "source": {
+      "tr": "Müslim, Zikir, 75",
+      "en": "Muslim, Dhikr, 75",
+      "ar": "مسلم، الذكر، 75",
+      "de": "Muslim, Dhikr, 75",
+      "fr": "Mouslim, Dhikr, 75",
+      "nl": "Muslim, Dhikr, 75",
+      "uz": "Muslim, Zikr, 75",
+      "ms": "Muslim, Zikir, 75",
+      "ru": "Муслим, Зикр, 75"
+    }
+  },
+  {
+    "id": "d3",
+    "arabic": "أَمْسَيْنَا وَأَمْسَى الْمُلْكُ لِلَّهِ، وَالْحَمْدُ لِلَّهِ، لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ",
+    "category": {
+      "tr": "Sabah & Akşam",
+      "en": "Morning & Evening",
+      "ar": "الصباح والمساء",
+      "de": "Morgen & Abend",
+      "fr": "Matin & Soir",
+      "nl": "Ochtend & Avond",
+      "uz": "Ertalab va Kechqurun",
+      "ms": "Pagi & Petang",
+      "ru": "Утро и Вечер"
+    },
+    "title": {
+      "tr": "Akşama Erişirken Dua",
+      "en": "Prayer at Nightfall",
+      "ar": "الصلاة عند حلول الليل",
+      "de": "Gebet bei Einbruch der Dunkelheit",
+      "fr": "Prière à la tombée de la nuit",
+      "nl": "Gebed bij het vallen van de avond",
+      "uz": "Kechki duo",
+      "ms": "Doa Waktu Petang",
+      "ru": "Вечерняя молитва"
+    },
+    "pronunciation": {
+      "tr": "Emseynâ ve emse'l-mülkü lillâhi ve'l-hamdü lillâhi lâ ilâhe illallâhu vahdehû lâ şerîke leh.",
+      "en": "Emseynâ ve emse'l-mülkü lillâhi ve'l-hamdü lillâhi lâ ilâhe illallâhu vahdehû lâ şerîke leh.",
+      "ar": "Emseynâ ve emse'l-mülkü lillâhi ve'l-hamdü lillâhi lâ ilâhe illallâhu vahdehû lâ şerîke leh.",
+      "de": "Emseynâ ve emse'l-mülkü lillâhi ve'l-hamdü lillâhi lâ ilâhe illallâhu vahdehû lâ şerîke leh.",
+      "fr": "Emseynâ ve emse'l-mülkü lillâhi ve'l-hamdü lillâhi lâ ilâhe illallâhu vahdehû lâ şerîke leh.",
+      "nl": "Emseynâ ve emse'l-mülkü lillâhi ve'l-hamdü lillâhi lâ ilâhe illallâhu vahdehû lâ şerîke leh.",
+      "uz": "Emseynâ ve emse'l-mülkü lillâhi ve'l-hamdü lillâhi lâ ilâhe illallâhu vahdehû lâ şerîke leh.",
+      "ms": "Emseynâ ve emse'l-mülkü lillâhi ve'l-hamdü lillâhi lâ ilâhe illallâhu vahdehû lâ şerîke leh.",
+      "ru": "Emseynâ ve emse'l-mülkü lillâhi ve'l-hamdü lillâhi lâ ilâhe illallâhu vahdehû lâ şerîke leh."
+    },
+    "translation": {
+      "tr": "Akşama eriştik; mülk de Allah'ın olarak akşama erdi. Hamd Allah'a mahsustur. Allah'tan başka hiçbir ilah yoktur.",
+      "en": "We have reached the evening; The dominion came to an end as Allah's. Praise be to Allah. There is no god but Allah.",
+      "ar": "أمسينا وأمسى الملك لله، والحمد لله، لا إله إلا الله وحده لا شريك له.",
+      "de": "Wir haben den Abend erreicht; die Herrschaft gehört Allah. Alles Lob gebührt Allah. Es gibt keinen Gott außer Allah.",
+      "fr": "Nous avons atteint le soir, et la souveraineté appartient à Allah. Louange à Allah. Il n'y a de divinité qu'Allah.",
+      "nl": "We hebben de avond bereikt; de heerschappij behoort toe aan Allah. Alle lof zij Allah. Er is geen god dan Allah.",
+      "uz": "Kechga yetdik; mulk ham Allohniki bo'lib kechga yetdi. Barcha hamd Allohga xosdir. Allohdan boshqa iloh yo'qdir.",
+      "ms": "Kami telah memasuki waktu petang; dan kekuasaan itu milik Allah. Segala puji bagi Allah. Tiada tuhan melainkan Allah.",
+      "ru": "Мы дожили до вечера, и власть принадлежит Аллаху. Хвала Аллаху. Нет божества, кроме Аллаха."
+    },
+    "source": {
+      "tr": "Müslim, Zikir, 76",
+      "en": "Muslim, Dhikr, 76",
+      "ar": "مسلم، الذكر، 76",
+      "de": "Muslim, Dhikr, 76",
+      "fr": "Mouslim, Dhikr, 76",
+      "nl": "Muslim, Dhikr, 76",
+      "uz": "Muslim, Zikr, 76",
+      "ms": "Muslim, Zikir, 76",
+      "ru": "Муслим, Зикр, 76"
+    }
+  },
+  {
+    "id": "d4",
+    "arabic": "اللَّهُ لَا إِلَهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ لَّهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ مَن ذَا الَّذِي يَشْفَعُ عِندَهُ إِلَّا بِإِذْنِهِ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ بِشَيْءٍ مِّنْ عِلْمِهِ إِلَّا بِمَا شَاءَ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ وَلَا يَئُودُهُ حِفْظُهُمَا وَهُوَ الْعَلِيُّ الْعَظِيمُ",
+    "category": {
+      "tr": "Şifa & Korunma",
+      "en": "Healing & Protection",
+      "ar": "الشفاء والحماية",
+      "de": "Heilung & Schutz",
+      "fr": "Guérison & Protection",
+      "nl": "Genezing & Bescherming",
+      "uz": "Shifo va Himoya",
+      "ms": "Penyembuhan & Perlindungan",
+      "ru": "Исцеление и Защита"
+    },
+    "title": {
+      "tr": "Ayetü'l-Kürsî (Korunma Ayeti)",
+      "en": "Ayetü'l-Kürsi (Verse of Protection)",
+      "ar": "آية الكرسي (آية الحماية)",
+      "de": "Ayatul Kursi (Thronvers)",
+      "fr": "Ayatul Kursi (Verset du Trône)",
+      "nl": "Ayatul Kursi (Troonvers)",
+      "uz": "Oyatal Kursi (Himoya oyati)",
+      "ms": "Ayatul Kursi (Ayat Pelindung)",
+      "ru": "Аятуль-Курси (Аят Трона)"
+    },
+    "pronunciation": {
+      "tr": "Allâhü lâ ilâhe illâ hüve'l-hayyü'l-kayyûm. Lâ te'huzühû sinetün ve lâ nevm. Lehû mâ fi's-semâvâti ve mâ fi'l-ard. Men zellezî yeşfeu indehû illâ bi-iznih. Ya'lemü mâ beyne eydîhim ve mâ halfehüm ve lâ yühîtûne bi-şey'in min ilmihî illâ bi-mâ şâe, vesia kürsiyyühü's-semâvâti ve'l-arda ve lâ yeûdühû hıfzuhümâ ve hüve'l-aliyyü'l-azîm.",
+      "en": "Allâhü lâ ilâhe illâ hüve'l-hayyü'l-kayyûm. Lâ te'huzühû sinetün ve lâ nevm. Lehû mâ fi's-semâvâti ve mâ fi'l-ard. Men zellezî yeşfeu indehû illâ bi-iznih. Ya'lemü mâ beyne eydîhim ve mâ halfehüm ve lâ yühîtûne bi-şey'in min ilmihî illâ bi-mâ şâe, vesia kürsiyyühü's-semâvâti ve'l-arda ve lâ yeûdühû hıfzuhümâ ve hüve'l-aliyyü'l-azîm.",
+      "ar": "Allâhü lâ ilâhe illâ hüve'l-hayyü'l-kayyûm. Lâ te'huzühû sinetün ve lâ nevm. Lehû mâ fi's-semâvâti ve mâ fi'l-ard. Men zellezî yeşfeu indehû illâ bi-iznih. Ya'lemü mâ beyne eydîhim ve mâ halfehüm ve lâ yühîtûne bi-şey'in min ilmihî illâ bi-mâ şâe, vesia kürsiyyühü's-semâvâti ve'l-arda ve lâ yeûdühû hıfzuhümâ ve hüve'l-aliyyü'l-azîm.",
+      "de": "Allâhü lâ ilâhe illâ hüve'l-hayyü'l-kayyûm. Lâ te'huzühû sinetün ve lâ nevm. Lehû mâ fi's-semâvâti ve mâ fi'l-ard. Men zellezî yeşfeu indehû illâ bi-iznih. Ya'lemü mâ beyne eydîhim ve mâ halfehüm ve lâ yühîtûne bi-şey'in min ilmihî illâ bi-mâ şâe, vesia kürsiyyühü's-semâvâti ve'l-arda ve lâ yeûdühû hıfzuhümâ ve hüve'l-aliyyü'l-azîm.",
+      "fr": "Allâhü lâ ilâhe illâ hüve'l-hayyü'l-kayyûm. Lâ te'huzühû sinetün ve lâ nevm. Lehû mâ fi's-semâvâti ve mâ fi'l-ard. Men zellezî yeşfeu indehû illâ bi-iznih. Ya'lemü mâ beyne eydîhim ve mâ halfehüm ve lâ yühîtûne bi-şey'in min ilmihî illâ bi-mâ şâe, vesia kürsiyyühü's-semâvâti ve'l-arda ve lâ yeûdühû hıfzuhümâ ve hüve'l-aliyyü'l-azîm.",
+      "nl": "Allâhü lâ ilâhe illâ hüve'l-hayyü'l-kayyûm. Lâ te'huzühû sinetün ve lâ nevm. Lehû mâ fi's-semâvâti ve mâ fi'l-ard. Men zellezî yeşfeu indehû illâ bi-iznih. Ya'lemü mâ beyne eydîhim ve mâ halfehüm ve lâ yühîtûne bi-şey'in min ilmihî illâ bi-mâ şâe, vesia kürsiyyühü's-semâvâti ve'l-arda ve lâ yeûdühû hıfzuhümâ ve hüve'l-aliyyü'l-azîm.",
+      "uz": "Allâhü lâ ilâhe illâ hüve'l-hayyü'l-kayyûm. Lâ te'huzühû sinetün ve lâ nevm. Lehû mâ fi's-semâvâti ve mâ fi'l-ard. Men zellezî yeşfeu indehû illâ bi-iznih. Ya'lemü mâ beyne eydîhim ve mâ halfehüm ve lâ yühîtûne bi-şey'in min ilmihî illâ bi-mâ şâe, vesia kürsiyyühü's-semâvâti ve'l-arda ve lâ yeûdühû hıfzuhümâ ve hüve'l-aliyyü'l-azîm.",
+      "ms": "Allâhü lâ ilâhe illâ hüve'l-hayyü'l-kayyûm. Lâ te'huzühû sinetün ve lâ nevm. Lehû mâ fi's-semâvâti ve mâ fi'l-ard. Men zellezî yeşfeu indehû illâ bi-iznih. Ya'lemü mâ beyne eydîhim ve mâ halfehüm ve lâ yühîtûne bi-şey'in min ilmihî illâ bi-mâ şâe, vesia kürsiyyühü's-semâvâti ve'l-arda ve lâ yeûdühû hıfzuhümâ ve hüve'l-aliyyü'l-azîm.",
+      "ru": "Allâhü lâ ilâhe illâ hüve'l-hayyü'l-kayyûm. Lâ te'huzühû sinetün ve lâ nevm. Lehû mâ fi's-semâvâti ve mâ fi'l-ard. Men zellezî yeşfeu indehû illâ bi-iznih. Ya'lemü mâ beyne eydîhim ve mâ halfehüm ve lâ yühîtûne bi-şey'in min ilmihî illâ bi-mâ şâe, vesia kürsiyyühü's-semâvâti ve'l-arda ve lâ yeûdühû hıfzuhümâ ve hüve'l-aliyyü'l-azîm."
+    },
+    "translation": {
+      "tr": "Allah, O'ndan başka ilah olmayandır; Hayy'dır (diridir), Kayyûm'dur (her şeyin varlığı kendisine bağlıdır). O'nu ne bir uyuklama ne de uyku tutar. Göklerde ve yerde ne varsa hepsi O'nundur...",
+      "en": "Allah is the one who has no god but Him; He is Hayy (alive), He is Qayyum (the existence of everything depends on Him). Neither drowsiness nor sleep overtakes Him. Whatever is in the heavens and the earth belongs to Him...",
+      "ar": "اللَّهُ لَا إِلَهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ لَّهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ...",
+      "de": "Allah – es gibt keinen Gott außer Ihm, dem Lebendigen und Beständigen. Ihn überkommt weder Schlummer noch Schlaf. Ihm gehört, was in den Himmeln und was auf der Erde ist...",
+      "fr": "Allah ! Point de divinité à part Lui, le Vivant, Celui qui subsiste par Lui-même. Ni somnolence ni sommeil ne Le saisissent. A Lui appartient tout ce qui est dans les cieux et sur la terre...",
+      "nl": "Allah! Er is geen God dan Hij, de Levende, de Zelfbestaande. Sluimer noch slaap kan Hem overmannen. Aan Hem behoort toe wat in de hemelen en wat op aarde is...",
+      "uz": "Alloh, Undan boshqa iloh yo'q. U Barhayot va Qayyumdir. Uni mudroq ham, uyqu ham tutmaydi. Osmonlar va yerdagi narsalar Unikidir...",
+      "ms": "Allah, tiada Tuhan melainkan Dia, Yang Tetap Hidup, Yang Kekal selama-lamanya mentadbirkan sekalian makhluk-Nya. Yang tidak mengantuk dan tidak tidur. Yang memiliki segala yang ada di langit dan yang ada di bumi...",
+      "ru": "Аллах — нет божества, кроме Него, Живого, Вседержителя. Им не овладевают ни дремота, ни сон. Ему принадлежит то, что на небесах, и то, что на земле..."
+    },
+    "source": {
+      "tr": "Bakara Suresi, 255",
+      "en": "Surah Al-Baqarah, 255",
+      "ar": "سورة البقرة، 255",
+      "de": "Sure Al-Baqarah, 255",
+      "fr": "Sourate Al-Baqarah, 255",
+      "nl": "Surah Al-Baqarah, 255",
+      "uz": "Baqara surasi, 255",
+      "ms": "Surah Al-Baqarah, 255",
+      "ru": "Сура Аль-Бакара, 255"
+    }
+  },
+  {
+    "id": "d5",
+    "arabic": "بِسْمِ اللَّهِ الَّذِي لَا يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+    "category": {
+      "tr": "Şifa & Korunma",
+      "en": "Healing & Protection",
+      "ar": "الشفاء والحماية",
+      "de": "Heilung & Schutz",
+      "fr": "Guérison & Protection",
+      "nl": "Genezing & Bescherming",
+      "uz": "Shifo va Himoya",
+      "ms": "Penyembuhan & Perlindungan",
+      "ru": "Исцеление и Защита"
+    },
+    "title": {
+      "tr": "Zarar ve Kötülüklerden Korunma Duası",
+      "en": "Prayer for Protection from Harm and Evil",
+      "ar": "دعاء الحماية من الأذى والشر",
+      "de": "Gebet um Schutz vor Schaden und Bösem",
+      "fr": "Prière de protection contre le mal",
+      "nl": "Gebed voor bescherming tegen kwaad",
+      "uz": "Zarar va yomonliklardan himoyalanish duosi",
+      "ms": "Doa Perlindungan daripada Kemudaratan",
+      "ru": "Молитва о защите от вреда и зла"
+    },
+    "pronunciation": {
+      "tr": "Bismillâhillezî lâ yedurru mea'smihî şey'ün fi'l-ardı ve lâ fi's-semâ' ve hüve's-semîu'l-alîm.",
+      "en": "Bismillâhillezî lâ yedurru mea'smihî şey'ün fi'l-ardı ve lâ fi's-semâ' ve hüve's-semîu'l-alîm.",
+      "ar": "Bismillâhillezî lâ yedurru mea'smihî şey'ün fi'l-ardı ve lâ fi's-semâ' ve hüve's-semîu'l-alîm.",
+      "de": "Bismillâhillezî lâ yedurru mea'smihî şey'ün fi'l-ardı ve lâ fi's-semâ' ve hüve's-semîu'l-alîm.",
+      "fr": "Bismillâhillezî lâ yedurru mea'smihî şey'ün fi'l-ardı ve lâ fi's-semâ' ve hüve's-semîu'l-alîm.",
+      "nl": "Bismillâhillezî lâ yedurru mea'smihî şey'ün fi'l-ardı ve lâ fi's-semâ' ve hüve's-semîu'l-alîm.",
+      "uz": "Bismillâhillezî lâ yedurru mea'smihî şey'ün fi'l-ardı ve lâ fi's-semâ' ve hüve's-semîu'l-alîm.",
+      "ms": "Bismillâhillezî lâ yedurru mea'smihî şey'ün fi'l-ardı ve lâ fi's-semâ' ve hüve's-semîu'l-alîm.",
+      "ru": "Bismillâhillezî lâ yedurru mea'smihî şey'ün fi'l-ardı ve lâ fi's-semâ' ve hüve's-semîu'l-alîm."
+    },
+    "translation": {
+      "tr": "İsmiyle yerde ve gökte hiçbir şeyin zarar veremeyeceği Allah'ın adıyla. O, her şeyi hakkıyla işiten ve bilendir.",
+      "en": "In the name of Allah, by whose name nothing in the earth or in the sky can harm. He is the One who hears and knows everything.",
+      "ar": "بسم الله الذي لا يضر مع اسمه شيء في الأرض ولا في السماء وهو السميع العليم.",
+      "de": "Im Namen Allahs, mit dessen Namen nichts auf der Erde oder im Himmel schaden kann. Er ist der Allhörende, der Allwissende.",
+      "fr": "Au nom d'Allah, par le nom duquel rien sur terre ni dans le ciel ne peut nuire. Il est Celui qui entend tout et sait tout.",
+      "nl": "In de naam van Allah, wiens naam niets op aarde of in de hemel kan schaden. Hij is de Alhorende, de Alwetende.",
+      "uz": "Ismi zikri bilan yeru osmonda hech bir narsa zarar keltira olmaydigan Allohning nomi bilan. U barcha narsani eshitguvchi va bilguvchidir.",
+      "ms": "Dengan nama Allah, yang dengan nama-Nya tidak ada sesuatu pun yang memudaratkan di bumi mahupun di langit. Dan Dia Maha Mendengar lagi Maha Mengetahui.",
+      "ru": "С именем Аллаха, с именем Которого ничто не причинит вреда ни на земле, ни на небе, ведь Он — Слышащий, Знающий."
+    },
+    "source": {
+      "tr": "Ebû Dâvûd, Edeb, 101",
+      "en": "Abu Dawud, Adab, 101",
+      "ar": "أبو داود، الأدب، ١٠١",
+      "de": "Abu Dawud, Adab, 101",
+      "fr": "Abou Daoud, Adab, 101",
+      "nl": "Abu Dawud, Adab, 101",
+      "uz": "Abu Dovud, Adab, 101",
+      "ms": "Abu Dawud, Adab, 101",
+      "ru": "Абу Дауд, Адаб, 101"
+    }
+  },
+  {
+    "id": "d6",
+    "arabic": "اللَّهُمَّ رَبَّ النَّاسِ أَذْهِبِ الْبَاسَ، اشْفِهِ وَأَنْتَ الشَّافِي، لَا شِفَاءَ إِلَّا شِفَاؤُكَ، شِفَاءً لَا يُغَادِرُ سَقَمًا",
+    "category": {
+      "tr": "Şifa & Korunma",
+      "en": "Healing & Protection",
+      "ar": "الشفاء والحماية",
+      "de": "Heilung & Schutz",
+      "fr": "Guérison & Protection",
+      "nl": "Genezing & Bescherming",
+      "uz": "Shifo va Himoya",
+      "ms": "Penyembuhan & Perlindungan",
+      "ru": "Исцеление и Защита"
+    },
+    "title": {
+      "tr": "Hastaya Şifa Duası",
+      "en": "Healing Prayer for the Patient",
+      "ar": "دعاء الشفاء للمريض",
+      "de": "Heilungsgebet für Kranke",
+      "fr": "Prière de guérison pour le malade",
+      "nl": "Genezingsgebed voor zieken",
+      "uz": "Bemor uchun shifo duosi",
+      "ms": "Doa Kesembuhan untuk Pesakit",
+      "ru": "Молитва об исцелении больного"
+    },
+    "pronunciation": {
+      "tr": "Allâhümme Rabbe'n-nâs ezhibi'l-be's, işfihi ve ente'ş-şâfî, lâ şifâe illâ şifâüke, şifâen lâ yüğâdiru sekamâ.",
+      "en": "Allâhümme Rabbe'n-nâs ezhibi'l-be's, işfihi ve ente'ş-şâfî, lâ şifâe illâ şifâüke, şifâen lâ yüğâdiru sekamâ.",
+      "ar": "Allâhümme Rabbe'n-nâs ezhibi'l-be's, işfihi ve ente'ş-şâfî, lâ şifâe illâ şifâüke, şifâen lâ yüğâdiru sekamâ.",
+      "de": "Allâhümme Rabbe'n-nâs ezhibi'l-be's, işfihi ve ente'ş-şâfî, lâ şifâe illâ şifâüke, şifâen lâ yüğâdiru sekamâ.",
+      "fr": "Allâhümme Rabbe'n-nâs ezhibi'l-be's, işfihi ve ente'ş-şâfî, lâ şifâe illâ şifâüke, şifâen lâ yüğâdiru sekamâ.",
+      "nl": "Allâhümme Rabbe'n-nâs ezhibi'l-be's, işfihi ve ente'ş-şâfî, lâ şifâe illâ şifâüke, şifâen lâ yüğâdiru sekamâ.",
+      "uz": "Allâhümme Rabbe'n-nâs ezhibi'l-be's, işfihi ve ente'ş-şâfî, lâ şifâe illâ şifâüke, şifâen lâ yüğâdiru sekamâ.",
+      "ms": "Allâhümme Rabbe'n-nâs ezhibi'l-be's, işfihi ve ente'ş-şâfî, lâ şifâe illâ şifâüke, şifâen lâ yüğâdiru sekamâ.",
+      "ru": "Allâhümme Rabbe'n-nâs ezhibi'l-be's, işfihi ve ente'ş-şâfî, lâ şifâe illâ şifâüke, şifâen lâ yüğâdiru sekamâ."
+    },
+    "translation": {
+      "tr": "Ey insanların Rabbi olan Allah'ım! Sıkıntıyı gider, şifa ver. Şifayı veren yalnızca sensin. Senin şifandan başka şifa yoktur; öyle bir şifa ver ki hiçbir hastalık bırakmasın.",
+      "en": "O Allah, Lord of the people! Remove the distress and heal. You are the Healer. There is no healing but Your healing; a healing that leaves no disease behind.",
+      "ar": "اللهم رب الناس أذهب البأس، اشفه وأنت الشافي، لا شفاء إلا شفاؤك، شفاء لا يغادر سقما.",
+      "de": "O Gott, Herr der Menschen! Nimm die Not weg und heile. Du bist der einzige Heiler. Es gibt keine Heilung außer deiner Heilung; gib eine solche Heilung, dass sie keine Krankheit zurücklässt.",
+      "fr": "Ô Allah, Seigneur des hommes ! Dissipe le mal et guéris. Tu es le Guérisseur. Il n'y a de guérison que Ta guérison ; une guérison qui ne laisse aucune maladie.",
+      "nl": "O Allah, Heer van de mensen! Neem de nood weg en genees. U bent de Genezer. Er is geen genezing dan Uw genezing; een genezing die geen ziekte achterlaat.",
+      "uz": "Ey insonlarning Parvardigori bo'lgan Alloh! Qiyinchilikni ketkaz, shifo ber. Shifo berguvchi faqat O'zingsan. Sening shifongdan boshqa shifo yo'q, shunday shifo bergin-ki, hech bir kasallik qoldirmasin.",
+      "ms": "Ya Allah, Tuhan sekalian manusia! Hilangkanlah kesengsaraan dan sembuhkanlah. Engkaulah Yang Maha Penyembuh. Tiada kesembuhan melainkan kesembuhan daripada-Mu; kesembuhan yang tidak meninggalkan sebarang penyakit.",
+      "ru": "О Аллах, Господь людей! Удали болезнь и исцели. Ты — Исцеляющий. Нет исцеления, кроме Твоего исцеления; исцеления, которое не оставляет болезни."
+    },
+    "source": {
+      "tr": "Buhârî, Tıb, 38",
+      "en": "Bukhari, Medicine, 38",
+      "ar": "البخاري، الطب، 38",
+      "de": "Bukhari, Medizin, 38",
+      "fr": "Boukhari, Médecine, 38",
+      "nl": "Bukhari, Geneeskunde, 38",
+      "uz": "Buxoriy, Tib, 38",
+      "ms": "Bukhari, Perubatan, 38",
+      "ru": "Бухари, Медицина, 38"
+    }
+  },
+  {
+    "id": "d7",
+    "arabic": "لَّا إِلَهَ إِلَّا أَنتَ سُبْحَانَكَ إِنِّي كُنتُ مِنَ الظَّالِمِينَ",
+    "category": {
+      "tr": "Peygamber Duaları",
+      "en": "Prophetic Prayers",
+      "ar": "أدعية نبوية",
+      "de": "Prophetische Duas",
+      "fr": "Invocations Prophétiques",
+      "nl": "Profetische Smeekbeden",
+      "uz": "Payg'ambar Duolari",
+      "ms": "Doa Kenabian",
+      "ru": "Пророческие Дуа"
+    },
+    "title": {
+      "tr": "Hz. Yûnus'un Balığın Karnındaki Duası (Kurtuluş)",
+      "en": "Prayer of Prophet Yunus in the Belly of the Fish (Salvation)",
+      "ar": "دعاء سيدنا يونس في بطن الحوت",
+      "de": "Gebet von Prophet Yunus im Bauch des Fisches",
+      "fr": "Prière du Prophète Yunus dans le ventre du poisson",
+      "nl": "Gebed van Profeet Yunus in de buik van de vis",
+      "uz": "Yunus payg'ambarning baliq qornidagi duosi",
+      "ms": "Doa Nabi Yunus di dalam Perut Ikan",
+      "ru": "Молитва пророка Юнуса в чреве кита"
+    },
+    "pronunciation": {
+      "tr": "Lâ ilâhe illâ ente sübhâneke innî küntü mine'z-zâlimîn.",
+      "en": "Lâ ilâhe illâ ente sübhâneke innî küntü mine'z-zâlimîn.",
+      "ar": "Lâ ilâhe illâ ente sübhâneke innî küntü mine'z-zâlimîn.",
+      "de": "Lâ ilâhe illâ ente sübhâneke innî küntü mine'z-zâlimîn.",
+      "fr": "Lâ ilâhe illâ ente sübhâneke innî küntü mine'z-zâlimîn.",
+      "nl": "Lâ ilâhe illâ ente sübhâneke innî küntü mine'z-zâlimîn.",
+      "uz": "Lâ ilâhe illâ ente sübhâneke innî küntü mine'z-zâlimîn.",
+      "ms": "Lâ ilâhe illâ ente sübhâneke innî küntü mine'z-zâlimîn.",
+      "ru": "Lâ ilâhe illâ ente sübhâneke innî küntü mine'z-zâlimîn."
+    },
+    "translation": {
+      "tr": "Senden başka ilah yoktur. Sen her türlü eksiklikten münezzehsin. Gerçekten ben kendi nefsime zulmedenlerden oldum.",
+      "en": "There is no god but You. You are free from all shortcomings. Indeed, I have become one of those who wronged my own soul.",
+      "ar": "لا إله إلا أنت سبحانك إني كنت من الظالمين.",
+      "de": "Es gibt keinen Gott außer Dir. Preis sei Dir. Ich gehörte wahrlich zu den Ungerechten.",
+      "fr": "Pas de divinité à part Toi ! Pureté à Toi ! J'ai été vraiment du nombre des injustes.",
+      "nl": "Er is geen god dan U. Verheerlijkt bent U. Voorwaar, ik behoorde tot de onrechtplegers.",
+      "uz": "Sendan boshqa iloh yo'q. Sen barcha nuqsonlardan poksan. Darhaqiqat, men o'z nafsimga zulm qiluvchilardan bo'ldim.",
+      "ms": "Tiada Tuhan melainkan Engkau. Maha Suci Engkau. Sesungguhnya aku adalah dari golongan orang-orang yang menzalimi diri sendiri.",
+      "ru": "Нет божества, кроме Тебя. Пречист Ты. Поистине, я был одним из несправедливых."
+    },
+    "source": {
+      "tr": "Enbiyâ Suresi, 87",
+      "en": "Surah Al-Anbiya, 87",
+      "ar": "سورة الأنبياء، 87",
+      "de": "Sure Al-Anbiya, 87",
+      "fr": "Sourate Al-Anbiya, 87",
+      "nl": "Surah Al-Anbiya, 87",
+      "uz": "Anbiyo surasi, 87",
+      "ms": "Surah Al-Anbiya, 87",
+      "ru": "Сура Аль-Анбия, 87"
+    }
+  },
+  {
+    "id": "d8",
+    "arabic": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+    "category": {
+      "tr": "Peygamber Duaları",
+      "en": "Prophetic Prayers",
+      "ar": "أدعية نبوية",
+      "de": "Prophetische Duas",
+      "fr": "Invocations Prophétiques",
+      "nl": "Profetische Smeekbeden",
+      "uz": "Payg'ambar Duolari",
+      "ms": "Doa Kenabian",
+      "ru": "Пророческие Дуа"
+    },
+    "title": {
+      "tr": "Rabbena Duası (Dünya ve Ahiret İyiliği)",
+      "en": "Rabbena Prayer (Goodness in this World and the Hereafter)",
+      "ar": "دعاء ربنا (خير الدنيا والآخرة)",
+      "de": "Rabbana Gebet (Gutes im Diesseits und Jenseits)",
+      "fr": "Prière Rabbana (Le bien de ce monde et de l'au-delà)",
+      "nl": "Rabbana Gebed (Het goede in deze wereld en het hiernamaals)",
+      "uz": "Robbana duosi (Dunyo va oxirat yaxshiligi)",
+      "ms": "Doa Rabbana (Kebaikan Dunia dan Akhirat)",
+      "ru": "Молитва Раббана (Благо в этом мире и в последней жизни)"
+    },
+    "pronunciation": {
+      "tr": "Rabbenâ âtinâ fi'd-dünyâ haseneten ve fi'l-âhireti haseneten ve kınâ azâbe'n-nâr.",
+      "en": "Rabbenâ âtinâ fi'd-dünyâ haseneten ve fi'l-âhireti haseneten ve kınâ azâbe'n-nâr.",
+      "ar": "Rabbenâ âtinâ fi'd-dünyâ haseneten ve fi'l-âhireti haseneten ve kınâ azâbe'n-nâr.",
+      "de": "Rabbenâ âtinâ fi'd-dünyâ haseneten ve fi'l-âhireti haseneten ve kınâ azâbe'n-nâr.",
+      "fr": "Rabbenâ âtinâ fi'd-dünyâ haseneten ve fi'l-âhireti haseneten ve kınâ azâbe'n-nâr.",
+      "nl": "Rabbenâ âtinâ fi'd-dünyâ haseneten ve fi'l-âhireti haseneten ve kınâ azâbe'n-nâr.",
+      "uz": "Rabbenâ âtinâ fi'd-dünyâ haseneten ve fi'l-âhireti haseneten ve kınâ azâbe'n-nâr.",
+      "ms": "Rabbenâ âtinâ fi'd-dünyâ haseneten ve fi'l-âhireti haseneten ve kınâ azâbe'n-nâr.",
+      "ru": "Rabbenâ âtinâ fi'd-dünyâ haseneten ve fi'l-âhireti haseneten ve kınâ azâbe'n-nâr."
+    },
+    "translation": {
+      "tr": "Rabbimiz! Bize dünyada da iyilik ve güzellik ver, ahirette de iyilik ve güzellik ver ve bizi cehennem azabından koru.",
+      "en": "Our Lord! Give us goodness and beauty in this world, give us goodness and beauty in the afterlife, and protect us from the torment of hell.",
+      "ar": "ربنا آتنا في الدنيا حسنة وفي الآخرة حسنة وقنا عذاب النار.",
+      "de": "Unser Herr! Gib uns Gutes im Diesseits und Gutes im Jenseits und bewahre uns vor der Strafe des Höllenfeuers.",
+      "fr": "Seigneur ! Accorde-nous belle part ici-bas, et belle part aussi dans l'au-delà ; et protège-nous du châtiment du Feu !",
+      "nl": "Onze Heer! Geef ons het goede in deze wereld en het goede in het hiernamaals en bescherm ons tegen de bestraffing van de hel.",
+      "uz": "Ey Robbimiz! Bizga bu dunyoda ham yaxshilik bergin, oxiratda ham yaxshilik bergin va bizni do'zax azobidan saqla.",
+      "ms": "Wahai Tuhan kami! Kurniakanlah kami kebaikan di dunia dan kebaikan di akhirat, dan peliharalah kami daripada azab neraka.",
+      "ru": "Господь наш! Даруй нам благо в этом мире и благо в Последней жизни и защити нас от мучений в Огне."
+    },
+    "source": {
+      "tr": "Bakara Suresi, 201",
+      "en": "Surah Al-Baqarah, 201",
+      "ar": "سورة البقرة، 201",
+      "de": "Sure Al-Baqarah, 201",
+      "fr": "Sourate Al-Baqarah, 201",
+      "nl": "Surah Al-Baqarah, 201",
+      "uz": "Baqara surasi, 201",
+      "ms": "Surah Al-Baqarah, 201",
+      "ru": "Сура Аль-Бакара, 201"
+    }
+  },
+  {
+    "id": "d9",
+    "arabic": "رَبِّ اشْرَحْ لِي صَدْرِي وَيَسِّرْ لِي أَمْرِي وَاحْلُلْ عُقْدَةً مِّن لِّسَانِي يَفْقَهُوا قَوْلِي",
+    "category": {
+      "tr": "Peygamber Duaları",
+      "en": "Prophetic Prayers",
+      "ar": "أدعية نبوية",
+      "de": "Prophetische Duas",
+      "fr": "Invocations Prophétiques",
+      "nl": "Profetische Smeekbeden",
+      "uz": "Payg'ambar Duolari",
+      "ms": "Doa Kenabian",
+      "ru": "Пророческие Дуа"
+    },
+    "title": {
+      "tr": "Hz. Mûsâ'nın Duası (Gönül Ferahlığı & Kolaylık)",
+      "en": "Prayer of Prophet Moses (Peace of Mind & Ease)",
+      "ar": "دعاء سيدنا موسى (راحة البال والتيسير)",
+      "de": "Gebet von Prophet Musa (Seelenfrieden & Erleichterung)",
+      "fr": "Prière du Prophète Moïse (Apaisement & Facilité)",
+      "nl": "Gebed van Profeet Musa (Gemoedsrust & Gemak)",
+      "uz": "Muso payg'ambarning duosi (Qalb xotirjamligi va yengillik)",
+      "ms": "Doa Nabi Musa (Ketenangan Hati & Kemudahan)",
+      "ru": "Молитва пророка Мусы (Спокойствие и Облегчение)"
+    },
+    "pronunciation": {
+      "tr": "Rabbi'şrah lî sadrî ve yessir lî emrî vahlül ukdeten min lisânî yefkahû kavlî.",
+      "en": "Rabbi'şrah lî sadrî ve yessir lî emrî vahlül ukdeten min lisânî yefkahû kavlî.",
+      "ar": "Rabbi'şrah lî sadrî ve yessir lî emrî vahlül ukdeten min lisânî yefkahû kavlî.",
+      "de": "Rabbi'şrah lî sadrî ve yessir lî emrî vahlül ukdeten min lisânî yefkahû kavlî.",
+      "fr": "Rabbi'şrah lî sadrî ve yessir lî emrî vahlül ukdeten min lisânî yefkahû kavlî.",
+      "nl": "Rabbi'şrah lî sadrî ve yessir lî emrî vahlül ukdeten min lisânî yefkahû kavlî.",
+      "uz": "Rabbi'şrah lî sadrî ve yessir lî emrî vahlül ukdeten min lisânî yefkahû kavlî.",
+      "ms": "Rabbi'şrah lî sadrî ve yessir lî emrî vahlül ukdeten min lisânî yefkahû kavlî.",
+      "ru": "Rabbi'şrah lî sadrî ve yessir lî emrî vahlül ukdeten min lisânî yefkahû kavlî."
+    },
+    "translation": {
+      "tr": "Rabbim! Göğsümü genişlet, işimi bana kolaylaştır, dilimdeki bağı çöz ki sözümü iyi anlasınlar.",
+      "en": "My Lord! Expand my chest, make my task easy for me, and loosen the tie on my tongue, so that they may understand my words well.",
+      "ar": "رب اشرح لي صدري ويسر لي أمري واحلل عقدة من لساني يفقهوا قولي.",
+      "de": "Mein Herr! Weite meine Brust, erleichtere mir meine Aufgabe und löse den Knoten auf meiner Zunge, damit sie meine Worte gut verstehen.",
+      "fr": "Seigneur ! Élargis ma poitrine, facilite ma tâche et dénoue le nœud de ma langue, afin qu'ils comprennent mes paroles.",
+      "nl": "Mijn Heer! Verruim mijn borst, vergemakkelijk mijn taak voor mij en ontknoop de knoop in mijn tong, zodat zij mijn woorden goed begrijpen.",
+      "uz": "Parvardigorim! Qalbimni keng qil, ishimni oson qil, tilimdagi tugunni yechgin-ki, so'zimni yaxshi anglasinlar.",
+      "ms": "Wahai Tuhanku! Lapangkanlah bagiku dadaku, permudahkanlah bagiku urusanku, dan lepaskanlah simpulan daripada lidahku, supaya mereka faham perkataanku.",
+      "ru": "Господи! Раскрой для меня мою грудь! Облегчи мою миссию! Развяжи узел на моем языке, чтобы они могли понять мою речь."
+    },
+    "source": {
+      "tr": "Tâhâ Suresi, 25-28",
+      "en": "Surah Taha, 25-28",
+      "ar": "سورة طه، 25-28",
+      "de": "Sure Ta-Ha, 25-28",
+      "fr": "Sourate Ta-Ha, 25-28",
+      "nl": "Surah Ta-Ha, 25-28",
+      "uz": "Toha surasi, 25-28",
+      "ms": "Surah Taha, 25-28",
+      "ru": "Сура Та Ха, 25-28"
+    }
+  },
+  {
+    "id": "d10",
+    "arabic": "اللَّهُمَّ رَبَّ هَذِهِ الدَّعْوَةِ التَّامَّةِ، وَالصَّلَاةِ الْقَائِمَةِ، آتِ مُحَمَّدًا الْوَسِيلَةَ وَالْفَضِيلَةَ، وَابْعَثْهُ مَقَامًا مَحْمُودًا الَّذِي وَعَدْتَهُ",
+    "category": {
+      "tr": "Ezan & Namaz",
+      "en": "Adhan & Prayer",
+      "ar": "الصلاة والأذان",
+      "de": "Gebet & Adhan",
+      "fr": "Prière & Adhan",
+      "nl": "Gebed & Adhan",
+      "uz": "Namoz va Azon",
+      "ms": "Solat & Azan",
+      "ru": "Молитва и Азан"
+    },
+    "title": {
+      "tr": "Ezan Duası",
+      "en": "Adhan Prayer",
+      "ar": "دعاء الأذان",
+      "de": "Adhan Gebet",
+      "fr": "Prière de l'Adhan",
+      "nl": "Adhan Gebed",
+      "uz": "Azon duosi",
+      "ms": "Doa Selepas Azan",
+      "ru": "Молитва после Азана"
+    },
+    "pronunciation": {
+      "tr": "Allâhümme Rabbe hâzihi'd-da'veti't-tâmmeh ve's-salâti'l-kâimeh, âti Muhammedenil-vesîlete ve'l-fadîleh, veb'ashü makâmen mahmûdenillezî va'adteh.",
+      "en": "Allâhümme Rabbe hâzihi'd-da'veti't-tâmmeh ve's-salâti'l-kâimeh, âti Muhammedenil-vesîlete ve'l-fadîleh, veb'ashü makâmen mahmûdenillezî va'adteh.",
+      "ar": "Allâhümme Rabbe hâzihi'd-da'veti't-tâmmeh ve's-salâti'l-kâimeh, âti Muhammedenil-vesîlete ve'l-fadîleh, veb'ashü makâmen mahmûdenillezî va'adteh.",
+      "de": "Allâhümme Rabbe hâzihi'd-da'veti't-tâmmeh ve's-salâti'l-kâimeh, âti Muhammedenil-vesîlete ve'l-fadîleh, veb'ashü makâmen mahmûdenillezî va'adteh.",
+      "fr": "Allâhümme Rabbe hâzihi'd-da'veti't-tâmmeh ve's-salâti'l-kâimeh, âti Muhammedenil-vesîlete ve'l-fadîleh, veb'ashü makâmen mahmûdenillezî va'adteh.",
+      "nl": "Allâhümme Rabbe hâzihi'd-da'veti't-tâmmeh ve's-salâti'l-kâimeh, âti Muhammedenil-vesîlete ve'l-fadîleh, veb'ashü makâmen mahmûdenillezî va'adteh.",
+      "uz": "Allâhümme Rabbe hâzihi'd-da'veti't-tâmmeh ve's-salâti'l-kâimeh, âti Muhammedenil-vesîlete ve'l-fadîleh, veb'ashü makâmen mahmûdenillezî va'adteh.",
+      "ms": "Allâhümme Rabbe hâzihi'd-da'veti't-tâmmeh ve's-salâti'l-kâimeh, âti Muhammedenil-vesîlete ve'l-fadîleh, veb'ashü makâmen mahmûdenillezî va'adteh.",
+      "ru": "Allâhümme Rabbe hâzihi'd-da'veti't-tâmmeh ve's-salâti'l-kâimeh, âti Muhammedenil-vesîlete ve'l-fadîleh, veb'ashü makâmen mahmûdenillezî va'adteh."
+    },
+    "translation": {
+      "tr": "Ey bu eksiksiz davetin ve kılınacak namazın Rabbi olan Allah'ım! Muhammed'e (s.a.v.) vesileyi ve fazileti ver. O'nu, kendisine vadettiğin Makam-ı Mahmud'a ulaştır.",
+      "en": "O Allah, Lord of this perfect call and established prayer! Grant Muhammad the intercession and favor, and raise him to the honored station You have promised him.",
+      "ar": "اللهم رب هذه الدعوة التامة، والصلاة القائمة، آت محمدا الوسيلة والفضيلة، وابعثه مقاما محمودا الذي وعدته.",
+      "de": "O Allah, Herr dieses vollkommenen Rufes und des zu verrichtenden Gebetes! Gib Muhammad die Fürsprache und die Vorzüglichkeit und erhebe ihn zu dem lobenswerten Rang, den Du ihm versprochen hast.",
+      "fr": "Ô Allah, Seigneur de cet appel parfait et de cette prière accomplie ! Accorde à Muhammad l'intercession et la vertu, et ressuscite-le à la station louable que Tu lui as promise.",
+      "nl": "O Allah, Heer van deze volmaakte oproep en het te verrichten gebed! Schenk Mohammed de voorspraak en de voortreffelijkheid, en verhef hem tot de geprezen positie die U hem heeft beloofd.",
+      "uz": "Ey ushbu komil da'vatning va barpo etiladigan namozning Parvardigori bo'lgan Alloh! Muhammadga (s.a.v.) vasila va fazilatni bergin. Uni O'zing va'da qilgan Maqomi Mahmudga yetkazgin.",
+      "ms": "Ya Allah, Tuhan yang memelihara seruan yang sempurna ini dan solat yang didirikan! Kurniakanlah kepada Nabi Muhammad kedudukan yang tinggi dan kelebihan, dan bangkitkanlah baginya kedudukan yang terpuji yang telah Engkau janjikan kepadanya.",
+      "ru": "О Аллах, Господь этого совершенного призыва и совершаемой молитвы! Даруй Мухаммаду заступничество и достоинство, и возведи его на достохвальное место, которое Ты ему обещал."
+    },
+    "source": {
+      "tr": "Buhârî, Ezan, 8",
+      "en": "Bukhari, Adhan, 8",
+      "ar": "البخاري، الأذان، 8",
+      "de": "Bukhari, Adhan, 8",
+      "fr": "Boukhari, Adhan, 8",
+      "nl": "Bukhari, Adhan, 8",
+      "uz": "Buxoriy, Azon, 8",
+      "ms": "Bukhari, Azan, 8",
+      "ru": "Бухари, Азан, 8"
+    }
+  },
+  {
+    "id": "d11",
+    "arabic": "اللَّهُمَّ أَنْتَ السَّلَامُ وَمِنْكَ السَّلَامُ، تَبَارَكْتَ يَا ذَا الْجَلَالِ وَالْإِكْرَامِ",
+    "category": {
+      "tr": "Ezan & Namaz",
+      "en": "Adhan & Prayer",
+      "ar": "الصلاة والأذان",
+      "de": "Gebet & Adhan",
+      "fr": "Prière & Adhan",
+      "nl": "Gebed & Adhan",
+      "uz": "Namoz va Azon",
+      "ms": "Solat & Azan",
+      "ru": "Молитва и Азан"
+    },
+    "title": {
+      "tr": "Namaz Sonrası İstiğfar ve Selam Duası",
+      "en": "Prayer of Istighfar and Greetings After Prayer",
+      "ar": "دعاء الاستغفار والسلام بعد الصلاة",
+      "de": "Gebet um Vergebung und Frieden nach dem Gebet",
+      "fr": "Prière de pardon et de paix après la prière",
+      "nl": "Gebed van vergeving en vrede na het gebed",
+      "uz": "Namozdan keyingi istig'for va salom duosi",
+      "ms": "Doa Istighfar dan Salam Selepas Solat",
+      "ru": "Молитва о прощении и мире после молитвы"
+    },
+    "pronunciation": {
+      "tr": "Allâhümme ente's-selâmü ve minke's-selâm, tebârakte yâ ze'l-celâli ve'l-ikrâm.",
+      "en": "Allâhümme ente's-selâmü ve minke's-selâm, tebârakte yâ ze'l-celâli ve'l-ikrâm.",
+      "ar": "Allâhümme ente's-selâmü ve minke's-selâm, tebârakte yâ ze'l-celâli ve'l-ikrâm.",
+      "de": "Allâhümme ente's-selâmü ve minke's-selâm, tebârakte yâ ze'l-celâli ve'l-ikrâm.",
+      "fr": "Allâhümme ente's-selâmü ve minke's-selâm, tebârakte yâ ze'l-celâli ve'l-ikrâm.",
+      "nl": "Allâhümme ente's-selâmü ve minke's-selâm, tebârakte yâ ze'l-celâli ve'l-ikrâm.",
+      "uz": "Allâhümme ente's-selâmü ve minke's-selâm, tebârakte yâ ze'l-celâli ve'l-ikrâm.",
+      "ms": "Allâhümme ente's-selâmü ve minke's-selâm, tebârakte yâ ze'l-celâli ve'l-ikrâm.",
+      "ru": "Allâhümme ente's-selâmü ve minke's-selâm, tebârakte yâ ze'l-celâli ve'l-ikrâm."
+    },
+    "translation": {
+      "tr": "Allah'ım! Sen selamsın, selamet de sendendir. Ey Celal ve İkram Sahibi! Sen yücelerden yücesin.",
+      "en": "O Allah! You are Peace, and peace comes from You. Blessed are You, O Possessor of Majesty and Honor.",
+      "ar": "اللهم أنت السلام ومنك السلام تباركت يا ذا الجلال والإكرام.",
+      "de": "O Allah! Du bist der Frieden und von Dir kommt der Frieden. Gesegnet seist Du, o Besitzer von Majestät und Ehre.",
+      "fr": "Ô Allah ! Tu es la Paix, et la paix vient de Toi. Béni sois-Tu, ô Détenteur de la Majesté et de la Munificence.",
+      "nl": "O Allah! U bent Vrede, en vrede komt van U. Gezegend bent U, o Bezitter van Majesteit en Eer.",
+      "uz": "Yo Alloh! Sen Salom (tinchlik)san va tinchlik-omonlik Sendandir. Ey ulug'lik va ikrom egasi! Sen barakotli, yuksaksan.",
+      "ms": "Ya Allah! Engkaulah Tuhan yang Maha Sejahtera, dan daripada-Mu jua datangnya kesejahteraan. Berkat Kebesaran-Mu, wahai Tuhan yang mempunyai Keagungan dan Kemuliaan.",
+      "ru": "О Аллах! Ты — Мир, и от Тебя исходит мир. Благословен Ты, о Обладатель величия и щедрости."
+    },
+    "source": {
+      "tr": "Müslim, Mesâcid, 135",
+      "en": "Muslim, Masajid, 135",
+      "ar": "مسلم، المساجد، 135",
+      "de": "Muslim, Masajid, 135",
+      "fr": "Mouslim, Mosquées, 135",
+      "nl": "Muslim, Masajid, 135",
+      "uz": "Muslim, Masojid, 135",
+      "ms": "Muslim, Masjid, 135",
+      "ru": "Муслим, Масажид, 135"
+    }
+  },
+  {
+    "id": "d12",
+    "arabic": "اللَّهُمَّ لَكَ صُمْتُ وَبِكَ آمَنْتُ وَعَلَيْكَ تَوَكَّلْتُ وَعَلَى رِزْقِكَ أَفْطَرْتُ",
+    "category": {
+      "tr": "Günlük Yaşam",
+      "en": "Daily Life",
+      "ar": "الحياة اليومية",
+      "de": "Alltagsleben",
+      "fr": "Vie Quotidienne",
+      "nl": "Dagelijks Leven",
+      "uz": "Kundalik Hayot",
+      "ms": "Kehidupan Harian",
+      "ru": "Повседневная Жизнь"
+    },
+    "title": {
+      "tr": "İftar Duası (Oruç Açarken)",
+      "en": "Iftar Prayer (Breaking Fast)",
+      "ar": "دعاء الإفطار",
+      "de": "Iftar Gebet (Fastenbrechen)",
+      "fr": "Prière de l'Iftar (Rupture du jeûne)",
+      "nl": "Iftar Gebed (Vasten verbreken)",
+      "uz": "Iftorlik duosi (Ro'za ochishda)",
+      "ms": "Doa Berbuka Puasa (Iftar)",
+      "ru": "Молитва Ифтар (При разговении)"
+    },
+    "pronunciation": {
+      "tr": "Allâhümme leke sumtü ve bike âmentü ve aleyke tevekkeltü ve alâ rızkıke eftartü.",
+      "en": "Allâhümme leke sumtü ve bike âmentü ve aleyke tevekkeltü ve alâ rızkıke eftartü.",
+      "ar": "Allâhümme leke sumtü ve bike âmentü ve aleyke tevekkeltü ve alâ rızkıke eftartü.",
+      "de": "Allâhümme leke sumtü ve bike âmentü ve aleyke tevekkeltü ve alâ rızkıke eftartü.",
+      "fr": "Allâhümme leke sumtü ve bike âmentü ve aleyke tevekkeltü ve alâ rızkıke eftartü.",
+      "nl": "Allâhümme leke sumtü ve bike âmentü ve aleyke tevekkeltü ve alâ rızkıke eftartü.",
+      "uz": "Allâhümme leke sumtü ve bike âmentü ve aleyke tevekkeltü ve alâ rızkıke eftartü.",
+      "ms": "Allâhümme leke sumtü ve bike âmentü ve aleyke tevekkeltü ve alâ rızkıke eftartü.",
+      "ru": "Allâhümme leke sumtü ve bike âmentü ve aleyke tevekkeltü ve alâ rızkıke eftartü."
+    },
+    "translation": {
+      "tr": "Allah'ım! Senin rızan için oruç tuttum, sana inandım, sana güvendim ve senin rızkınla orucumu açtım.",
+      "en": "O Allah! I fasted for Your sake, I believed in You, I trusted You and I broke my fast with Your sustenance.",
+      "ar": "اللهم لك صمت وبك آمنت وعليك توكلت وعلى رزقك أفطرت.",
+      "de": "O Allah! Um Deinetwillen habe ich gefastet, an Dich habe ich geglaubt, auf Dich habe ich vertraut und mit Deiner Versorgung breche ich mein Fasten.",
+      "fr": "Ô Allah ! J'ai jeûné pour Toi, j'ai cru en Toi, je m'en remets à Toi et je romps mon jeûne avec Ta subsistance.",
+      "nl": "O Allah! Voor U heb ik gevast, in U heb ik geloofd, op U heb ik vertrouwd en met Uw voorziening verbreek ik mijn vasten.",
+      "uz": "Yo Alloh! Sening rizoliging uchun ro'za tutdim, Senga iymon keltirdim, Senga tavakkal qildim va Sening bergan rizqing bilan ro'zamni ochdim.",
+      "ms": "Ya Allah! Kerana-Mu aku berpuasa, kepada-Mu aku beriman, kepada-Mu aku berserah, dan dengan rezeki-Mu aku berbuka puasa.",
+      "ru": "О Аллах! Ради Тебя я постился, в Тебя уверовал, на Тебя положился и Твоим уделом разговляюсь."
+    },
+    "source": {
+      "tr": "Ebû Dâvûd, Savm, 22",
+      "en": "Abu Dawud, Sawm, 22",
+      "ar": "أبو داود، الصوم، 22",
+      "de": "Abu Dawud, Sawm, 22",
+      "fr": "Abou Daoud, Jeûne, 22",
+      "nl": "Abu Dawud, Sawm, 22",
+      "uz": "Abu Dovud, Savm, 22",
+      "ms": "Abu Dawud, Puasa, 22",
+      "ru": "Абу Дауд, Савм, 22"
+    }
+  },
+  {
+    "id": "d13",
+    "arabic": "بِسْمِ اللَّهِ تَوَكَّلْتُ عَلَى اللَّهِ، لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+    "category": {
+      "tr": "Günlük Yaşam",
+      "en": "Daily Life",
+      "ar": "الحياة اليومية",
+      "de": "Alltagsleben",
+      "fr": "Vie Quotidienne",
+      "nl": "Dagelijks Leven",
+      "uz": "Kundalik Hayot",
+      "ms": "Kehidupan Harian",
+      "ru": "Повседневная Жизнь"
+    },
+    "title": {
+      "tr": "Evden Çıkarken Okunacak Dua",
+      "en": "Prayer to be recited when leaving home",
+      "ar": "دعاء الخروج من المنزل",
+      "de": "Gebet beim Verlassen des Hauses",
+      "fr": "Prière en sortant de la maison",
+      "nl": "Gebed bij het verlaten van het huis",
+      "uz": "Uydan chiqayotganda o'qiladigan duo",
+      "ms": "Doa Keluar Rumah",
+      "ru": "Молитва при выходе из дома"
+    },
+    "pronunciation": {
+      "tr": "Bismillâhi tevekkeltü alallâh, lâ havle ve lâ kuvvete illâ billâh.",
+      "en": "Bismillâhi tevekkeltü alallâh, lâ havle ve lâ kuvvete illâ billâh.",
+      "ar": "Bismillâhi tevekkeltü alallâh, lâ havle ve lâ kuvvete illâ billâh.",
+      "de": "Bismillâhi tevekkeltü alallâh, lâ havle ve lâ kuvvete illâ billâh.",
+      "fr": "Bismillâhi tevekkeltü alallâh, lâ havle ve lâ kuvvete illâ billâh.",
+      "nl": "Bismillâhi tevekkeltü alallâh, lâ havle ve lâ kuvvete illâ billâh.",
+      "uz": "Bismillâhi tevekkeltü alallâh, lâ havle ve lâ kuvvete illâ billâh.",
+      "ms": "Bismillâhi tevekkeltü alallâh, lâ havle ve lâ kuvvete illâ billâh.",
+      "ru": "Bismillâhi tevekkeltü alallâh, lâ havle ve lâ kuvvete illâ billâh."
+    },
+    "translation": {
+      "tr": "Allah'ın adıyla. Allah'a tevekkül ettim. Güç ve kuvvet ancak Allah'tandır.",
+      "en": "In the name of Allah. I put my trust in Allah. Power and strength come only from Allah.",
+      "ar": "بسم الله توكلت على الله، لا حول ولا قوة إلا بالله.",
+      "de": "Im Namen Allahs. Ich vertraue auf Allah. Es gibt keine Macht und keine Kraft außer durch Allah.",
+      "fr": "Au nom d'Allah. Je m'en remets à Allah. Il n'y a de force ni de puissance qu'en Allah.",
+      "nl": "In de naam van Allah. Ik vertrouw op Allah. Er is geen macht en geen kracht behalve bij Allah.",
+      "uz": "Allohning nomi bilan. Allohga tavakkal qildim. Kuch va quvvat faqat Allohdandir.",
+      "ms": "Dengan nama Allah, aku berserah diri kepada Allah. Tiada daya dan tiada kekuatan melainkan dengan izin Allah.",
+      "ru": "С именем Аллаха. Я уповаю на Аллаха. Нет мощи и силы ни у кого, кроме Аллаха."
+    },
+    "source": {
+      "tr": "Ebû Dâvûd, Edeb, 103",
+      "en": "Abu Dawud, Adab, 103",
+      "ar": "أبو داود، الأدب، 103",
+      "de": "Abu Dawud, Adab, 103",
+      "fr": "Abou Daoud, Adab, 103",
+      "nl": "Abu Dawud, Adab, 103",
+      "uz": "Abu Dovud, Adab, 103",
+      "ms": "Abu Dawud, Adab, 103",
+      "ru": "Абу Дауд, Адаб, 103"
+    }
+  },
+  {
+    "id": "d14",
+    "arabic": "حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ نِعْمَ الْمَوْلَىٰ وَنِعْمَ النَّصِيرُ",
+    "category": {
+      "tr": "Günlük Yaşam",
+      "en": "Daily Life",
+      "ar": "الحياة اليومية",
+      "de": "Alltagsleben",
+      "fr": "Vie Quotidienne",
+      "nl": "Dagelijks Leven",
+      "uz": "Kundalik Hayot",
+      "ms": "Kehidupan Harian",
+      "ru": "Повседневная Жизнь"
+    },
+    "title": {
+      "tr": "Sıkıntı ve Keder Anında Dua",
+      "en": "Prayer in Times of Trouble and Sorrow",
+      "ar": "دعاء عند الضيق والحزن",
+      "de": "Gebet in Zeiten der Not und Trauer",
+      "fr": "Prière en temps de détresse et de chagrin",
+      "nl": "Gebed in tijden van nood en verdriet",
+      "uz": "Qiyinchilik va qayg'u vaqtida duo",
+      "ms": "Doa Ketika Kesusahan dan Kesedihan",
+      "ru": "Молитва в час беды и печали"
+    },
+    "pronunciation": {
+      "tr": "Hasbünallâhu ve ni'me'l-vekîl, ni'me'l-mevlâ ve ni'me'n-nasîr.",
+      "en": "Hasbünallâhu ve ni'me'l-vekîl, ni'me'l-mevlâ ve ni'me'n-nasîr.",
+      "ar": "Hasbünallâhu ve ni'me'l-vekîl, ni'me'l-mevlâ ve ni'me'n-nasîr.",
+      "de": "Hasbünallâhu ve ni'me'l-vekîl, ni'me'l-mevlâ ve ni'me'n-nasîr.",
+      "fr": "Hasbünallâhu ve ni'me'l-vekîl, ni'me'l-mevlâ ve ni'me'n-nasîr.",
+      "nl": "Hasbünallâhu ve ni'me'l-vekîl, ni'me'l-mevlâ ve ni'me'n-nasîr.",
+      "uz": "Hasbünallâhu ve ni'me'l-vekîl, ni'me'l-mevlâ ve ni'me'n-nasîr.",
+      "ms": "Hasbünallâhu ve ni'me'l-vekîl, ni'me'l-mevlâ ve ni'me'n-nasîr.",
+      "ru": "Hasbünallâhu ve ni'me'l-vekîl, ni'me'l-mevlâ ve ni'me'n-nasîr."
+    },
+    "translation": {
+      "tr": "Allah bize yeter; O ne güzel vekildir, ne güzel dost ve ne güzel yardımcıdır.",
+      "en": "Allah is sufficient for us; What an excellent Guardian, what an excellent Lord and what an excellent Helper.",
+      "ar": "حسبنا الله ونعم الوكيل، نعم المولى ونعم النصير.",
+      "de": "Allah genügt uns; welch ein vorzüglicher Beschützer, welch ein vorzüglicher Herr und welch ein vorzüglicher Helfer.",
+      "fr": "Allah nous suffit; Quel excellent Protecteur, quel excellent Maître et quel excellent Auxiliaire.",
+      "nl": "Allah is voldoende voor ons; wat een uitstekende Beschermer, wat een uitstekende Heer en wat een uitstekende Helper.",
+      "uz": "Alloh bizga yetarlidir; U qanday yaxshi vakil, qanday yaxshi do'st va qanday yaxshi yordamchidir.",
+      "ms": "Cukuplah Allah bagi kami; sebaik-baik Pelindung, sebaik-baik Pemimpin dan sebaik-baik Penolong.",
+      "ru": "Достаточно нам Аллаха; как прекрасен этот Попечитель, как прекрасен этот Владыка и как прекрасен этот Помощник."
+    },
+    "source": {
+      "tr": "Âl-i İmrân Suresi, 173",
+      "en": "Surah Al-Imran, 173",
+      "ar": "سورة آل عمران، 173",
+      "de": "Sure Al-Imran, 173",
+      "fr": "Sourate Al-Imran, 173",
+      "nl": "Surah Al-Imran, 173",
+      "uz": "Oli Imron surasi, 173",
+      "ms": "Surah Al Imran, 173",
+      "ru": "Сура Аль-Имран, 173"
+    }
+  },
+  {
+    "id": "d100",
+    "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنَا وَسَقَانَا وَجَعَلَنَا مُسْلِمِينَ",
+    "category": {
+      "tr": "Günlük Yaşam",
+      "en": "Daily Life",
+      "ar": "الحياة اليومية",
+      "de": "Alltagsleben",
+      "fr": "Vie Quotidienne",
+      "nl": "Dagelijks Leven",
+      "uz": "Kundalik Hayot",
+      "ms": "Kehidupan Harian",
+      "ru": "Повседневная Жизнь"
+    },
+    "title": {
+      "tr": "Yemek Duası",
+      "en": "Food Prayer",
+      "ar": "دعاء الطعام",
+      "de": "Tischgebet (Nach dem Essen)",
+      "fr": "Prière après le repas",
+      "nl": "Tafelgebed (Na het eten)",
+      "uz": "Ovqatdan keyingi duo",
+      "ms": "Doa Selepas Makan",
+      "ru": "Молитва после еды"
+    },
+    "pronunciation": {
+      "tr": "Elhamdülillâhillezî et'amenâ ve sekânâ ve cealenâ müslimîn.",
+      "en": "Elhamdülillâhillezî et'amenâ ve sekânâ ve cealenâ müslimîn.",
+      "ar": "Elhamdülillâhillezî et'amenâ ve sekânâ ve cealenâ müslimîn.",
+      "de": "Elhamdülillâhillezî et'amenâ ve sekânâ ve cealenâ müslimîn.",
+      "fr": "Elhamdülillâhillezî et'amenâ ve sekânâ ve cealenâ müslimîn.",
+      "nl": "Elhamdülillâhillezî et'amenâ ve sekânâ ve cealenâ müslimîn.",
+      "uz": "Elhamdülillâhillezî et'amenâ ve sekânâ ve cealenâ müslimîn.",
+      "ms": "Elhamdülillâhillezî et'amenâ ve sekânâ ve cealenâ müslimîn.",
+      "ru": "Elhamdülillâhillezî et'amenâ ve sekânâ ve cealenâ müslimîn."
+    },
+    "translation": {
+      "tr": "Bizi doyuran, içiren ve bizi Müslümanlardan kılan Allah'a hamdolsun.",
+      "en": "Praise be to Allah, who fed us, gave us drink and made us Muslims.",
+      "ar": "الحمد لله الذي أطعمنا وسقانا وجعلنا مسلمين.",
+      "de": "Alles Lob gebührt Allah, der uns gespeist, uns zu trinken gegeben und uns zu Muslimen gemacht hat.",
+      "fr": "Louange à Allah qui nous a nourris, nous a abreuvés et a fait de nous des musulmans.",
+      "nl": "Alle lof zij Allah, die ons heeft gevoed, ons te drinken heeft gegeven en ons tot moslims heeft gemaakt.",
+      "uz": "Bizni to'ydirgan, chanqog'imizni qondirgan va bizni musulmonlardan qilgan Allohga hamd bo'lsin.",
+      "ms": "Segala puji bagi Allah yang telah memberi kami makan dan minum, serta menjadikan kami dari kalangan orang Islam.",
+      "ru": "Хвала Аллаху, который накормил нас, напоил нас и сделал нас мусульманами."
+    },
+    "source": {
+      "tr": "Ebû Dâvûd, Et'ime, 52",
+      "en": "Abu Dawud, At'ima, 52",
+      "ar": "أبو داود، الأطعمة، 52",
+      "de": "Abu Dawud, Speisen, 52",
+      "fr": "Abou Daoud, Nourriture, 52",
+      "nl": "Abu Dawud, Voedsel, 52",
+      "uz": "Abu Dovud, At'ima, 52",
+      "ms": "Abu Dawud, Makanan, 52",
+      "ru": "Абу Дауд, Пища, 52"
+    }
+  },
+  {
+    "id": "d101",
+    "arabic": "اللَّهُمَّ يَا رَبِّ جِبْرِيلَ وَمِيكَائِيلَ وَإِسْرَافِيلَ وَعِزْرَائِيلَ وَإِبْرَاهِيمَ وَإِسْمَاعِيلَ وَإِسْحَاقَ وَيَعْقُوبَ...",
+    "category": {
+      "tr": "Günlük Yaşam",
+      "en": "Daily Life",
+      "ar": "الحياة اليومية",
+      "de": "Alltagsleben",
+      "fr": "Vie Quotidienne",
+      "nl": "Dagelijks Leven",
+      "uz": "Kundalik Hayot",
+      "ms": "Kehidupan Harian",
+      "ru": "Повседневная Жизнь"
+    },
+    "title": {
+      "tr": "Bereket (Karınca) Duası",
+      "en": "Abundance (Ant) Prayer",
+      "ar": "دعاء البركة (النملة)",
+      "de": "Segen-Gebet (Ameisen-Gebet)",
+      "fr": "Prière d'Abondance (Fourmi)",
+      "nl": "Zegen-Gebed (Mieren-Gebed)",
+      "uz": "Baraka (Chumoli) duosi",
+      "ms": "Doa Keberkatan (Semut)",
+      "ru": "Молитва благодати (Молитва муравья)"
+    },
+    "pronunciation": {
+      "tr": "Allâhümme yâ Rabbi Cibrîle ve Mîkâîle ve İsrâfîle ve Azrâîle ve İbrâhîme ve İsmâîle ve İshâka ve Ya'kûbe...",
+      "en": "Allâhümme yâ Rabbi Cibrîle ve Mîkâîle ve İsrâfîle ve Azrâîle ve İbrâhîme ve İsmâîle ve İshâka ve Ya'kûbe...",
+      "ar": "Allâhümme yâ Rabbi Cibrîle ve Mîkâîle ve İsrâfîle ve Azrâîle ve İbrâhîme ve İsmâîle ve İshâka ve Ya'kûbe...",
+      "de": "Allâhümme yâ Rabbi Cibrîle ve Mîkâîle ve İsrâfîle ve Azrâîle ve İbrâhîme ve İsmâîle ve İshâka ve Ya'kûbe...",
+      "fr": "Allâhümme yâ Rabbi Cibrîle ve Mîkâîle ve İsrâfîle ve Azrâîle ve İbrâhîme ve İsmâîle ve İshâka ve Ya'kûbe...",
+      "nl": "Allâhümme yâ Rabbi Cibrîle ve Mîkâîle ve İsrâfîle ve Azrâîle ve İbrâhîme ve İsmâîle ve İshâka ve Ya'kûbe...",
+      "uz": "Allâhümme yâ Rabbi Cibrîle ve Mîkâîle ve İsrâfîle ve Azrâîle ve İbrâhîme ve İsmâîle ve İshâka ve Ya'kûbe...",
+      "ms": "Allâhümme yâ Rabbi Cibrîle ve Mîkâîle ve İsrâfîle ve Azrâîle ve İbrâhîme ve İsmâîle ve İshâka ve Ya'kûbe...",
+      "ru": "Allâhümme yâ Rabbi Cibrîle ve Mîkâîle ve İsrâfîle ve Azrâîle ve İbrâhîme ve İsmâîle ve İshâka ve Ya'kûbe..."
+    },
+    "translation": {
+      "tr": "Ey Cebrail'in, Mikail'in, İsrafil'in, Azrail'in, İbrahim'in, İsmail'in, İshak ve Yakub'un Rabbi olan Allah'ım! Rızkımı bereketlendir ve beni helal rızıkla rızıklandır.",
+      "en": "O Allah, Lord of Gabriel, Michael, Israfil, Azrael, Abraham, Ishmael, Isaac and Jacob! Bless my sustenance and provide me with halal sustenance.",
+      "ar": "اللهم يا رب جبريل وميكائيل وإسرافيل وعزرائيل وإبراهيم وإسماعيل وإسحاق ويعقوب، بارك لي في رزقي وارزقني حلالا.",
+      "de": "O Allah, Herr von Gabriel, Michael, Israfil, Azrael, Abraham, Ismael, Isaak und Jakob! Segne meinen Unterhalt und versorge mich mit Halal-Versorgung.",
+      "fr": "Ô Allah, Seigneur de Gabriel, Michel, Israfil, Azraël, Abraham, Ismaël, Isaac et Jacob ! Bénis ma subsistance et accorde-moi une subsistance licite.",
+      "nl": "O Allah, Heer van Gabriël, Michaël, Israfil, Azraël, Abraham, Ismaël, Isaäk en Jakob! Zegen mijn voorziening en voorzie mij van halal voorziening.",
+      "uz": "Ey Jabroil, Mikoyil, Isrofil, Azroil, Ibrohim, Ismoil, Ishoq va Ya'qubning Parvardigori bo'lgan Alloh! Rizqimga baraka ber va meni halol rizq bilan rizqlantir.",
+      "ms": "Ya Allah, Tuhan Jibril, Mikail, Israfil, Izrail, Ibrahim, Ismail, Ishak dan Yaakub! Berkatilah rezekiku dan kurniakanlah rezeki yang halal kepadaku.",
+      "ru": "О Аллах, Господь Джибриля, Микаила, Исрафила, Азраила, Ибрахима, Исмаила, Исхака и Якуба! Благослови мой удел и надели меня дозволенным уделом."
+    },
+    "source": {
+      "tr": "Halk Arasında Yaygın Dua (Karınca Duası)",
+      "en": "Common Prayer Among the People (Ant Prayer)",
+      "ar": "دعاء شعبي متداول (دعاء النملة)",
+      "de": "Bekanntes Volksgebet (Ameisen-Gebet)",
+      "fr": "Prière populaire courante (Prière de la fourmi)",
+      "nl": "Bekend Volksgebed (Mieren-Gebed)",
+      "uz": "Xalq orasida tarqalgan duo (Chumoli duosi)",
+      "ms": "Doa Popular (Doa Semut)",
+      "ru": "Народная молитва (Молитва муравья)"
+    }
+  },
+  {
+    "id": "d102",
+    "arabic": "رَبِّ يَسِّرْ وَلاَ تُعَسِّرْ، رَبِّ تَمِّمْ بِالْخَيْرِ",
+    "category": {
+      "tr": "Günlük Yaşam",
+      "en": "Daily Life",
+      "ar": "الحياة اليومية",
+      "de": "Alltagsleben",
+      "fr": "Vie Quotidienne",
+      "nl": "Dagelijks Leven",
+      "uz": "Kundalik Hayot",
+      "ms": "Kehidupan Harian",
+      "ru": "Повседневная Жизнь"
+    },
+    "title": {
+      "tr": "Sınav ve Başarı Duası (Rabbi Yessir)",
+      "en": "Exam and Success Prayer (Rabbi Yassir)",
+      "ar": "دعاء الامتحان والنجاح (ربي يسر)",
+      "de": "Prüfungs- und Erfolgsgebet (Rabbi Yessir)",
+      "fr": "Prière pour l'examen et la réussite (Rabbi Yassir)",
+      "nl": "Examen- en Succesgebed (Rabbi Yessir)",
+      "uz": "Imtihon va muvaffaqiyat duosi (Robbi yassir)",
+      "ms": "Doa Peperiksaan dan Kejayaan (Rabbi Yassir)",
+      "ru": "Молитва об экзамене и успехе (Рабби Яссир)"
+    },
+    "pronunciation": {
+      "tr": "Rabbi yessir ve lâ tüassir, Rabbi temmim bi'l-hayr.",
+      "en": "Rabbi yessir ve lâ tüassir, Rabbi temmim bi'l-hayr.",
+      "ar": "Rabbi yessir ve lâ tüassir, Rabbi temmim bi'l-hayr.",
+      "de": "Rabbi yessir ve lâ tüassir, Rabbi temmim bi'l-hayr.",
+      "fr": "Rabbi yessir ve lâ tüassir, Rabbi temmim bi'l-hayr.",
+      "nl": "Rabbi yessir ve lâ tüassir, Rabbi temmim bi'l-hayr.",
+      "uz": "Rabbi yessir ve lâ tüassir, Rabbi temmim bi'l-hayr.",
+      "ms": "Rabbi yessir ve lâ tüassir, Rabbi temmim bi'l-hayr.",
+      "ru": "Rabbi yessir ve lâ tüassir, Rabbi temmim bi'l-hayr."
+    },
+    "translation": {
+      "tr": "Rabbim! İşimi kolaylaştır, zorlaştırma. Rabbim! İşimi hayırla tamamla.",
+      "en": "My Lord! Make my task easy, do not make it difficult. My Lord! Complete my work with goodness.",
+      "ar": "رب يسر ولا تعسر، رب تمم بالخير.",
+      "de": "Mein Herr! Mach meine Aufgabe leicht, mach sie nicht schwer. Mein Herr! Vollende meine Arbeit mit Gutem.",
+      "fr": "Mon Seigneur ! Rends ma tâche facile, ne la rends pas difficile. Mon Seigneur ! Achève mon travail par le bien.",
+      "nl": "Mijn Heer! Maak mijn taak gemakkelijk, maak deze niet moeilijk. Mijn Heer! Voltooi mijn werk met het goede.",
+      "uz": "Parvardigorim! Ishimni oson qil, qiyin qilib qo'yma. Parvardigorim! Ishimni xayrli yakunla.",
+      "ms": "Ya Tuhanku! Permudahkanlah urusanku, janganlah dipersulitkan. Ya Tuhanku! Sempurnakanlah dengan kebaikan.",
+      "ru": "Господи! Облегчи мое дело, не усложняй его. Господи! Заверши мое дело благом."
+    },
+    "source": {
+      "tr": "Tâhâ Suresi (25-28) ilhamıyla yapılan dua",
+      "en": "Prayer inspired by Surah Taha (25-28)",
+      "ar": "دعاء مستوحى من سورة طه (25-28)",
+      "de": "Von Sure Ta-Ha (25-28) inspiriertes Gebet",
+      "fr": "Prière inspirée de la Sourate Ta-Ha (25-28)",
+      "nl": "Gebed geïnspireerd op Surah Ta-Ha (25-28)",
+      "uz": "Toha surasidan (25-28) olingan duo",
+      "ms": "Doa inspirasi daripada Surah Taha (25-28)",
+      "ru": "Молитва, вдохновленная сурой Та Ха (25-28)"
+    }
+  },
+  {
+    "id": "d103",
+    "arabic": "بِسْمِ اللَّهِ تَوَكَّلْتُ عَلَى اللَّهِ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+    "category": {
+      "tr": "Günlük Yaşam",
+      "en": "Daily Life",
+      "ar": "الحياة اليومية",
+      "de": "Alltagsleben",
+      "fr": "Vie Quotidienne",
+      "nl": "Dagelijks Leven",
+      "uz": "Kundalik Hayot",
+      "ms": "Kehidupan Harian",
+      "ru": "Повседневная Жизнь"
+    },
+    "title": {
+      "tr": "Evden Çıkarken Okunacak Dua",
+      "en": "Prayer to be recited when leaving home",
+      "ar": "دعاء الخروج من المنزل",
+      "de": "Gebet beim Verlassen des Hauses",
+      "fr": "Prière en sortant de la maison",
+      "nl": "Gebed bij het verlaten van het huis",
+      "uz": "Uydan chiqayotganda o'qiladigan duo",
+      "ms": "Doa Keluar Rumah",
+      "ru": "Молитва при выходе из дома"
+    },
+    "pronunciation": {
+      "tr": "Bismillâhi tevekkeltü alellâhi ve lâ havle ve lâ kuvvete illâ billâh.",
+      "en": "Bismillâhi tevekkeltü alellâhi ve lâ havle ve lâ kuvvete illâ billâh.",
+      "ar": "Bismillâhi tevekkeltü alellâhi ve lâ havle ve lâ kuvvete illâ billâh.",
+      "de": "Bismillâhi tevekkeltü alellâhi ve lâ havle ve lâ kuvvete illâ billâh.",
+      "fr": "Bismillâhi tevekkeltü alellâhi ve lâ havle ve lâ kuvvete illâ billâh.",
+      "nl": "Bismillâhi tevekkeltü alellâhi ve lâ havle ve lâ kuvvete illâ billâh.",
+      "uz": "Bismillâhi tevekkeltü alellâhi ve lâ havle ve lâ kuvvete illâ billâh.",
+      "ms": "Bismillâhi tevekkeltü alellâhi ve lâ havle ve lâ kuvvete illâ billâh.",
+      "ru": "Bismillâhi tevekkeltü alellâhi ve lâ havle ve lâ kuvvete illâ billâh."
+    },
+    "translation": {
+      "tr": "Allah'ın adıyla. Allah'a tevekkül ettim. Güç ve kuvvet ancak Allah'ın yardımıyladır.",
+      "en": "In the name of Allah. I put my trust in Allah. Power and strength are only with the help of Allah.",
+      "ar": "بسم الله توكلت على الله، ولا حول ولا قوة إلا بالله.",
+      "de": "Im Namen Allahs. Ich vertraue auf Allah. Macht und Kraft gibt es nur mit der Hilfe Allahs.",
+      "fr": "Au nom d'Allah. Je m'en remets à Allah. Il n'y a de force ni de puissance qu'avec l'aide d'Allah.",
+      "nl": "In de naam van Allah. Ik vertrouw op Allah. Macht en kracht komen enkel met de hulp van Allah.",
+      "uz": "Allohning nomi bilan. Allohga tavakkal qildim. Kuch va quvvat faqat Allohning yordami bilandir.",
+      "ms": "Dengan nama Allah, aku berserah diri kepada Allah. Tiada daya dan tiada kekuatan melainkan dengan bantuan Allah.",
+      "ru": "С именем Аллаха. Я уповаю на Аллаха. Нет мощи и силы ни у кого, кроме как с помощью Аллаха."
+    },
+    "source": {
+      "tr": "Ebû Dâvûd, Edeb, 103",
+      "en": "Abu Dawud, Adab, 103",
+      "ar": "أبو داود، الأدب، 103",
+      "de": "Abu Dawud, Adab, 103",
+      "fr": "Abou Daoud, Adab, 103",
+      "nl": "Abu Dawud, Adab, 103",
+      "uz": "Abu Dovud, Adab, 103",
+      "ms": "Abu Dawud, Adab, 103",
+      "ru": "Абу Дауд, Адаб, 103"
+    }
+  },
+  {
+    "id": "d104",
+    "arabic": "بِاسْمِكَ اللَّهُمَّ أَمُوتُ وَأَحْيَا",
+    "category": {
+      "tr": "Sabah & Akşam",
+      "en": "Morning & Evening",
+      "ar": "الصباح والمساء",
+      "de": "Morgen & Abend",
+      "fr": "Matin & Soir",
+      "nl": "Ochtend & Avond",
+      "uz": "Ertalab va Kechqurun",
+      "ms": "Pagi & Petang",
+      "ru": "Утро и Вечер"
+    },
+    "title": {
+      "tr": "Uyumadan Önce Okunacak Dua",
+      "en": "Prayer to Read Before Sleeping",
+      "ar": "دعاء قبل النوم",
+      "de": "Gebet vor dem Schlafengehen",
+      "fr": "Prière avant de dormir",
+      "nl": "Gebed voor het slapengaan",
+      "uz": "Uxlashdan oldin o'qiladigan duo",
+      "ms": "Doa Sebelum Tidur",
+      "ru": "Молитва перед сном"
+    },
+    "pronunciation": {
+      "tr": "Bismikellâhümme emûtü ve ahyâ.",
+      "en": "Bismikellâhümme emûtü ve ahyâ.",
+      "ar": "Bismikellâhümme emûtü ve ahyâ.",
+      "de": "Bismikellâhümme emûtü ve ahyâ.",
+      "fr": "Bismikellâhümme emûtü ve ahyâ.",
+      "nl": "Bismikellâhümme emûtü ve ahyâ.",
+      "uz": "Bismikellâhümme emûtü ve ahyâ.",
+      "ms": "Bismikellâhümme emûtü ve ahyâ.",
+      "ru": "Bismikellâhümme emûtü ve ahyâ."
+    },
+    "translation": {
+      "tr": "Allah'ım! Senin isminle ölür (uyur) ve dirilirim (uyanırım).",
+      "en": "O Allah! In Your name I die (sleep) and live (wake up).",
+      "ar": "باسمك اللهم أموت وأحيا.",
+      "de": "O Allah! In Deinem Namen sterbe (schlafe) ich und lebe (erwache) ich.",
+      "fr": "Ô Allah ! C'est en Ton nom que je meurs (je m'endors) et que je vis (je me réveille).",
+      "nl": "O Allah! In Uw naam sterf (slaap) ik en leef (ontwaak) ik.",
+      "uz": "Yo Alloh! Sening isming bilan o'laman (uxlayman) va tirilaman (uyg'onaman).",
+      "ms": "Ya Allah! Dengan nama-Mu aku mati (tidur) dan aku hidup (bangun).",
+      "ru": "О Аллах! С Твоим именем я умираю (засыпаю) и оживаю (просыпаюсь)."
+    },
+    "source": {
+      "tr": "Buhârî, Daavât, 7",
+      "en": "Bukhari, Da'awat, 7",
+      "ar": "البخاري، الدعوات، 7",
+      "de": "Bukhari, Da'awat, 7",
+      "fr": "Boukhari, Da'awat, 7",
+      "nl": "Bukhari, Da'awat, 7",
+      "uz": "Buxoriy, Daavot, 7",
+      "ms": "Bukhari, Da'awat, 7",
+      "ru": "Бухари, Даават, 7"
+    }
+  },
+  {
+    "id": "d105",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْخُبُثِ وَالْخَبَائِثِ",
+    "category": {
+      "tr": "Günlük Yaşam",
+      "en": "Daily Life",
+      "ar": "الحياة اليومية",
+      "de": "Alltagsleben",
+      "fr": "Vie Quotidienne",
+      "nl": "Dagelijks Leven",
+      "uz": "Kundalik Hayot",
+      "ms": "Kehidupan Harian",
+      "ru": "Повседневная Жизнь"
+    },
+    "title": {
+      "tr": "Tuvalete Girerken",
+      "en": "Going to the Toilet",
+      "ar": "دعاء دخول الخلاء",
+      "de": "Beim Betreten der Toilette",
+      "fr": "En entrant aux toilettes",
+      "nl": "Bij het betreden van het toilet",
+      "uz": "Hojatxonaga kirishda",
+      "ms": "Doa Masuk Tandas",
+      "ru": "При входе в туалет"
+    },
+    "pronunciation": {
+      "tr": "Allâhümme innî eûzü bike mine'l-hubusi ve'l-habâis.",
+      "en": "Allâhümme innî eûzü bike mine'l-hubusi ve'l-habâis.",
+      "ar": "Allâhümme innî eûzü bike mine'l-hubusi ve'l-habâis.",
+      "de": "Allâhümme innî eûzü bike mine'l-hubusi ve'l-habâis.",
+      "fr": "Allâhümme innî eûzü bike mine'l-hubusi ve'l-habâis.",
+      "nl": "Allâhümme innî eûzü bike mine'l-hubusi ve'l-habâis.",
+      "uz": "Allâhümme innî eûzü bike mine'l-hubusi ve'l-habâis.",
+      "ms": "Allâhümme innî eûzü bike mine'l-hubusi ve'l-habâis.",
+      "ru": "Allâhümme innî eûzü bike mine'l-hubusi ve'l-habâis."
+    },
+    "translation": {
+      "tr": "Allah'ım! Pislikten ve pis (zararlı) şeylerden (erkek ve dişi şeytanlardan) sana sığınırım.",
+      "en": "O Allah! I seek refuge in You from filth and evil things (male and female devils).",
+      "ar": "اللهم إني أعوذ بك من الخبث والخبائث.",
+      "de": "O Allah! Ich suche Zuflucht bei Dir vor Unreinheit und bösen Dingen (männlichen und weiblichen Teufeln).",
+      "fr": "Ô Allah ! Je cherche refuge auprès de Toi contre l'impureté et les choses maléfiques (les démons mâles et femelles).",
+      "nl": "O Allah! Ik zoek mijn toevlucht bij U tegen onreinheid en kwade zaken (mannelijke en vrouwelijke duivels).",
+      "uz": "Yo Alloh! Nopoklikdan va nopok (zararli) narsalardan (erkak va urg'ochi shaytonlardan) Sendan panoh so'rayman.",
+      "ms": "Ya Allah! Aku berlindung dengan-Mu daripada kekotoran dan perkara-perkara yang keji (syaitan jantan dan betina).",
+      "ru": "О Аллах! Я прибегаю к Тебе от скверны и злых духов (дьяволов мужского и женского пола)."
+    },
+    "source": {
+      "tr": "Buhârî, Vudû, 9",
+      "en": "Bukhari, Wudu, 9",
+      "ar": "البخاري، الوضوء، 9",
+      "de": "Bukhari, Wudu, 9",
+      "fr": "Boukhari, Wudu, 9",
+      "nl": "Bukhari, Wudu, 9",
+      "uz": "Buxoriy, Vuzu, 9",
+      "ms": "Bukhari, Wuduk, 9",
+      "ru": "Бухари, Вуду, 9"
+    }
+  },
+  {
+    "id": "d106",
+    "arabic": "غُفْرَانَكَ",
+    "category": {
+      "tr": "Günlük Yaşam",
+      "en": "Daily Life",
+      "ar": "الحياة اليومية",
+      "de": "Alltagsleben",
+      "fr": "Vie Quotidienne",
+      "nl": "Dagelijks Leven",
+      "uz": "Kundalik Hayot",
+      "ms": "Kehidupan Harian",
+      "ru": "Повседневная Жизнь"
+    },
+    "title": {
+      "tr": "Tuvaletten Çıkarken",
+      "en": "Leaving the Toilet",
+      "ar": "دعاء الخروج من الخلاء",
+      "de": "Beim Verlassen der Toilette",
+      "fr": "En sortant des toilettes",
+      "nl": "Bij het verlaten van het toilet",
+      "uz": "Hojatxonadan chiqishda",
+      "ms": "Doa Keluar Tandas",
+      "ru": "При выходе из туалета"
+    },
+    "pronunciation": {
+      "tr": "Ğufrâneke.",
+      "en": "Ğufrâneke.",
+      "ar": "Ğufrâneke.",
+      "de": "Ğufrâneke.",
+      "fr": "Ğufrâneke.",
+      "nl": "Ğufrâneke.",
+      "uz": "Ğufrâneke.",
+      "ms": "Ğufrâneke.",
+      "ru": "Ğufrâneke."
+    },
+    "translation": {
+      "tr": "Bağışlamanı dilerim (Allah'ım).",
+      "en": "I ask for Your forgiveness (O Allah).",
+      "ar": "غفرانك.",
+      "de": "Ich bitte um Deine Vergebung (o Allah).",
+      "fr": "Je Te demande pardon (ô Allah).",
+      "nl": "Ik vraag om Uw vergeving (o Allah).",
+      "uz": "Mag'firatingni so'rayman (Yo Alloh).",
+      "ms": "Aku memohon keampunan-Mu (Ya Allah).",
+      "ru": "Прошу Твоего прощения (О Аллах)."
+    },
+    "source": {
+      "tr": "Ebû Dâvûd, Tahâret, 17",
+      "en": "Abu Dawud, Taharah, 17",
+      "ar": "أبو داود، الطهارة، 17",
+      "de": "Abu Dawud, Taharah, 17",
+      "fr": "Abou Daoud, Purification, 17",
+      "nl": "Abu Dawud, Taharah, 17",
+      "uz": "Abu Dovud, Tahorat, 17",
+      "ms": "Abu Dawud, Bersuci, 17",
+      "ru": "Абу Дауд, Очищение, 17"
+    }
+  },
+  {
+    "id": "d107",
+    "arabic": "اللَّهُمَّ رَبَّ هَذِهِ الدَّعْوَةِ التَّامَّةِ، وَالصَّلَاةِ الْقَائِمَةِ، آتِ مُحَمَّدًا الْوَسِيلَةَ وَالْفَضِيلَةَ، وَابْعَثْهُ مَقَامًا مَحْمُودًا الَّذِي وَعَدْتَهُ",
+    "category": {
+      "tr": "Ezan & Namaz",
+      "en": "Prayer & Adhan",
+      "ar": "الصلاة والأذان",
+      "de": "Gebet & Adhan",
+      "fr": "Prière & Adhan",
+      "nl": "Gebed & Adhan",
+      "uz": "Namoz va Azon",
+      "ms": "Solat & Azan",
+      "ru": "Молитва и Азан"
+    },
+    "title": {
+      "tr": "Ezan Okunurken (Ezan Duası)",
+      "en": "While the Adhan is being recited (Adhan Prayer)",
+      "ar": "عند سماع الأذان",
+      "de": "Während der Adhan gerufen wird (Adhan Gebet)",
+      "fr": "Pendant l'appel à la prière (Prière de l'Adhan)",
+      "nl": "Tijdens de Adhan (Adhan Gebed)",
+      "uz": "Azon eshitilganda (Azon duosi)",
+      "ms": "Ketika Mendengar Azan (Doa Azan)",
+      "ru": "Во время призыва к молитве (Молитва Азана)"
+    },
+    "pronunciation": {
+      "tr": "Allâhümme Rabbe hâzihi'd-da'veti't-tâmmeh, ve's-salâti'l-kâimeh, âti Muhammedeni'l-vesîlete ve'l-fadîlete, veb'ashü makâmen mahmûdenillezî vaadteh.",
+      "en": "Allâhümme Rabbe hâzihi'd-da'veti't-tâmmeh, ve's-salâti'l-kâimeh, âti Muhammedeni'l-vesîlete ve'l-fadîlete, veb'ashü makâmen mahmûdenillezî vaadteh.",
+      "ar": "Allâhümme Rabbe hâzihi'd-da'veti't-tâmmeh, ve's-salâti'l-kâimeh, âti Muhammedeni'l-vesîlete ve'l-fadîlete, veb'ashü makâmen mahmûdenillezî vaadteh.",
+      "de": "Allâhümme Rabbe hâzihi'd-da'veti't-tâmmeh, ve's-salâti'l-kâimeh, âti Muhammedeni'l-vesîlete ve'l-fadîlete, veb'ashü makâmen mahmûdenillezî vaadteh.",
+      "fr": "Allâhümme Rabbe hâzihi'd-da'veti't-tâmmeh, ve's-salâti'l-kâimeh, âti Muhammedeni'l-vesîlete ve'l-fadîlete, veb'ashü makâmen mahmûdenillezî vaadteh.",
+      "nl": "Allâhümme Rabbe hâzihi'd-da'veti't-tâmmeh, ve's-salâti'l-kâimeh, âti Muhammedeni'l-vesîlete ve'l-fadîlete, veb'ashü makâmen mahmûdenillezî vaadteh.",
+      "uz": "Allâhümme Rabbe hâzihi'd-da'veti't-tâmmeh, ve's-salâti'l-kâimeh, âti Muhammedeni'l-vesîlete ve'l-fadîlete, veb'ashü makâmen mahmûdenillezî vaadteh.",
+      "ms": "Allâhümme Rabbe hâzihi'd-da'veti't-tâmmeh, ve's-salâti'l-kâimeh, âti Muhammedeni'l-vesîlete ve'l-fadîlete, veb'ashü makâmen mahmûdenillezî vaadteh.",
+      "ru": "Allâhümme Rabbe hâzihi'd-da'veti't-tâmmeh, ve's-salâti'l-kâimeh, âti Muhammedeni'l-vesîlete ve'l-fadîlete, veb'ashü makâmen mahmûdenillezî vaadteh."
+    },
+    "translation": {
+      "tr": "Ey bu eksiksiz davetin ve kılınacak namazın Rabbi olan Allah'ım! Muhammed'e vesîleyi ve fazîleti ver. Onu, kendisine vaad ettiğin Makâm-ı Mahmûd'a ulaştır.",
+      "en": "O Allah, Lord of this perfect call and established prayer. Grant Muhammad the intercession and favor, and raise him to the honored station You have promised him.",
+      "ar": "اللهم رب هذه الدعوة التامة، والصلاة القائمة، آت محمدا الوسيلة والفضيلة، وابعثه مقاما محمودا الذي وعدته.",
+      "de": "O Allah, Herr dieses vollkommenen Rufes und des zu verrichtenden Gebetes! Gib Muhammad die Fürsprache und die Vorzüglichkeit und erhebe ihn zu dem lobenswerten Rang, den Du ihm versprochen hast.",
+      "fr": "Ô Allah, Seigneur de cet appel parfait et de cette prière accomplie ! Accorde à Muhammad l'intercession et la vertu, et ressuscite-le à la station louable que Tu lui as promise.",
+      "nl": "O Allah, Heer van deze volmaakte oproep en het te verrichten gebed! Schenk Mohammed de voorspraak en de voortreffelijkheid, en verhef hem tot de geprezen positie die U hem heeft beloofd.",
+      "uz": "Ey ushbu komil da'vatning va barpo etiladigan namozning Parvardigori bo'lgan Alloh! Muhammadga (s.a.v.) vasila va fazilatni bergin. Uni O'zing va'da qilgan Maqomi Mahmudga yetkazgin.",
+      "ms": "Ya Allah, Tuhan yang memelihara seruan yang sempurna ini dan solat yang didirikan! Kurniakanlah kepada Nabi Muhammad kedudukan yang tinggi dan kelebihan, dan bangkitkanlah baginya kedudukan yang terpuji yang telah Engkau janjikan kepadanya.",
+      "ru": "О Аллах, Господь этого совершенного призыва и совершаемой молитвы! Даруй Мухаммаду заступничество и достоинство, и возведи его на достохвальное место, которое Ты ему обещал."
+    },
+    "source": {
+      "tr": "Buhârî, Ezân, 8",
+      "en": "Bukhari, Adhan, 8",
+      "ar": "البخاري، الأذان، 8",
+      "de": "Bukhari, Adhan, 8",
+      "fr": "Boukhari, Adhan, 8",
+      "nl": "Bukhari, Adhan, 8",
+      "uz": "Buxoriy, Azon, 8",
+      "ms": "Bukhari, Azan, 8",
+      "ru": "Бухари, Азан, 8"
+    }
+  },
+  {
+    "id": "d108",
+    "arabic": "اللَّهُمَّ حَسَّنْتَ خَلْقِي فَحَسِّنْ خُلُقِي",
+    "category": {
+      "tr": "Günlük Yaşam",
+      "en": "Daily Life",
+      "ar": "الحياة اليومية",
+      "de": "Alltagsleben",
+      "fr": "Vie Quotidienne",
+      "nl": "Dagelijks Leven",
+      "uz": "Kundalik Hayot",
+      "ms": "Kehidupan Harian",
+      "ru": "Повседневная Жизнь"
+    },
+    "title": {
+      "tr": "Aynaya Bakarken Okunacak Dua",
+      "en": "Prayer to Say While Looking in the Mirror",
+      "ar": "دعاء النظر في المرآة",
+      "de": "Gebet beim Blick in den Spiegel",
+      "fr": "Prière en se regardant dans le miroir",
+      "nl": "Gebed bij het kijken in de spiegel",
+      "uz": "Ko'zguga qaraganda o'qiladigan duo",
+      "ms": "Doa Ketika Melihat Cermin",
+      "ru": "Молитва при взгляде в зеркало"
+    },
+    "pronunciation": {
+      "tr": "Allâhümme hassente halkî fe-hassin hulukî.",
+      "en": "Allâhümme hassente halkî fe-hassin hulukî.",
+      "ar": "Allâhümme hassente halkî fe-hassin hulukî.",
+      "de": "Allâhümme hassente halkî fe-hassin hulukî.",
+      "fr": "Allâhümme hassente halkî fe-hassin hulukî.",
+      "nl": "Allâhümme hassente halkî fe-hassin hulukî.",
+      "uz": "Allâhümme hassente halkî fe-hassin hulukî.",
+      "ms": "Allâhümme hassente halkî fe-hassin hulukî.",
+      "ru": "Allâhümme hassente halkî fe-hassin hulukî."
+    },
+    "translation": {
+      "tr": "Allah'ım! Yaratılışımı (dış görünüşümü) güzelleştirdiğin gibi ahlakımı da güzelleştir.",
+      "en": "O Allah! Just as You have beautified my creation (outward appearance), also beautify my character.",
+      "ar": "اللهم كما حسنت خلقي فحسن خلقي.",
+      "de": "O Allah! So wie Du meine Schöpfung (äußere Erscheinung) verschönert hast, verschönere auch meinen Charakter.",
+      "fr": "Ô Allah ! Tout comme Tu as embelli ma création (apparence extérieure), embellis aussi mon caractère.",
+      "nl": "O Allah! Net zoals U mijn schepping (uiterlijke verschijning) heeft verfraaid, verfraai ook mijn karakter.",
+      "uz": "Yo Alloh! Yaratilishimni (tashqi ko'rinishimni) go'zal qilganing kabi axloqimni ham go'zal qil.",
+      "ms": "Ya Allah! Sebagaimana Engkau telah memperelokkan kejadianku (rupa paras), maka perelokkanlah juga akhlakku.",
+      "ru": "О Аллах! Подобно тому, как Ты сделал прекрасным мой облик, сделай прекрасным и мой нрав."
+    },
+    "source": {
+      "tr": "İbn Hıbbân, Ed'ıye, 959",
+      "en": "Ibn Hibban, Ad'iyah, 959",
+      "ar": "ابن حبان، الأدعية، 959",
+      "de": "Ibn Hibban, Ad'iyah, 959",
+      "fr": "Ibn Hibban, Invocations, 959",
+      "nl": "Ibn Hibban, Smeekbeden, 959",
+      "uz": "Ibn Hibbon, Ad'iya, 959",
+      "ms": "Ibn Hibban, Doa-doa, 959",
+      "ru": "Ибн Хиббан, Мольбы, 959"
+    }
+  },
+  {
+    "id": "d109",
+    "arabic": "الْحَمْدُ لِلَّهِ الَّذِي كَسَانِي هَذَا (الثَّوْبَ) وَرَزَقَنِيهِ مِنْ غَيْرِ حَوْلٍ مِنِّي وَلَا قُوَّةٍ",
+    "category": {
+      "tr": "Günlük Yaşam",
+      "en": "Daily Life",
+      "ar": "الحياة اليومية",
+      "de": "Alltagsleben",
+      "fr": "Vie Quotidienne",
+      "nl": "Dagelijks Leven",
+      "uz": "Kundalik Hayot",
+      "ms": "Kehidupan Harian",
+      "ru": "Повседневная Жизнь"
+    },
+    "title": {
+      "tr": "Yeni Kıyafet Giyerken",
+      "en": "When Wearing New Clothes",
+      "ar": "دعاء لبس الثوب الجديد",
+      "de": "Beim Anziehen neuer Kleidung",
+      "fr": "En portant de nouveaux vêtements",
+      "nl": "Bij het dragen van nieuwe kleding",
+      "uz": "Yangi kiyim kiyganda",
+      "ms": "Doa Memakai Pakaian Baru",
+      "ru": "При надевании новой одежды"
+    },
+    "pronunciation": {
+      "tr": "Elhamdülillâhillezî kesânî hâzâ (es-sevbe) ve razakanîhi min ğayri havlin minnî ve lâ kuvveh.",
+      "en": "Elhamdülillâhillezî kesânî hâzâ (es-sevbe) ve razakanîhi min ğayri havlin minnî ve lâ kuvveh.",
+      "ar": "Elhamdülillâhillezî kesânî hâzâ (es-sevbe) ve razakanîhi min ğayri havlin minnî ve lâ kuvveh.",
+      "de": "Elhamdülillâhillezî kesânî hâzâ (es-sevbe) ve razakanîhi min ğayri havlin minnî ve lâ kuvveh.",
+      "fr": "Elhamdülillâhillezî kesânî hâzâ (es-sevbe) ve razakanîhi min ğayri havlin minnî ve lâ kuvveh.",
+      "nl": "Elhamdülillâhillezî kesânî hâzâ (es-sevbe) ve razakanîhi min ğayri havlin minnî ve lâ kuvveh.",
+      "uz": "Elhamdülillâhillezî kesânî hâzâ (es-sevbe) ve razakanîhi min ğayri havlin minnî ve lâ kuvveh.",
+      "ms": "Elhamdülillâhillezî kesânî hâzâ (es-sevbe) ve razakanîhi min ğayri havlin minnî ve lâ kuvveh.",
+      "ru": "Elhamdülillâhillezî kesânî hâzâ (es-sevbe) ve razakanîhi min ğayri havlin minnî ve lâ kuvveh."
+    },
+    "translation": {
+      "tr": "Benden hiçbir güç ve kuvvet olmadan bu elbiseyi bana giydiren ve beni bununla rızıklandıran Allah'a hamdolsun.",
+      "en": "Praise be to Allah, who clothed me with this garment and provided it for me, without any power or strength on my part.",
+      "ar": "الحمد لله الذي كساني هذا الثوب ورزقنيه من غير حول مني ولا قوة.",
+      "de": "Alles Lob gebührt Allah, der mich mit diesem Kleidungsstück bekleidet und es mir zur Verfügung gestellt hat, ohne jegliche Macht oder Kraft meinerseits.",
+      "fr": "Louange à Allah qui m'a revêtu de cet habit et me l'a accordé sans aucune force ni puissance de ma part.",
+      "nl": "Alle lof zij Allah, die mij met dit kledingstuk heeft gekleed en het mij heeft geschonken, zonder enige macht of kracht van mijn kant.",
+      "uz": "Mendan hech qanday kuch va quvvat bo'lmagan holda bu libosni menga kiydirgan va u bilan meni rizqlantirgan Allohga hamd bo'lsin.",
+      "ms": "Segala puji bagi Allah yang telah memakaikan aku pakaian ini dan mengurniakan ia kepadaku tanpa sebarang daya dan kekuatan daripadaku.",
+      "ru": "Хвала Аллаху, который одел меня в эту одежду и наделил меня ею без какой-либо мощи и силы с моей стороны."
+    },
+    "source": {
+      "tr": "Ebû Dâvûd, Libâs, 1",
+      "en": "Abu Dawud, Libas, 1",
+      "ar": "أبو داود، اللباس، 1",
+      "de": "Abu Dawud, Kleidung, 1",
+      "fr": "Abou Daoud, Vêtements, 1",
+      "nl": "Abu Dawud, Kleding, 1",
+      "uz": "Abu Dovud, Libos, 1",
+      "ms": "Abu Dawud, Pakaian, 1",
+      "ru": "Абу Дауд, Одежда, 1"
+    }
+  },
+  {
+    "id": "d110",
+    "arabic": "بِسْمِ اللَّهِ وَلَجْنَا، وَبِسْمِ اللَّهِ خَرَجْنَا، وَعَلَى رَبِّنَا تَوَكَّلْنَا",
+    "category": {
+      "tr": "Günlük Yaşam",
+      "en": "Daily Life",
+      "ar": "الحياة اليومية",
+      "de": "Alltagsleben",
+      "fr": "Vie Quotidienne",
+      "nl": "Dagelijks Leven",
+      "uz": "Kundalik Hayot",
+      "ms": "Kehidupan Harian",
+      "ru": "Повседневная Жизнь"
+    },
+    "title": {
+      "tr": "Eve Girerken Okunacak Dua",
+      "en": "Prayer to be recited when entering the house",
+      "ar": "دعاء دخول المنزل",
+      "de": "Gebet beim Betreten des Hauses",
+      "fr": "Prière en entrant dans la maison",
+      "nl": "Gebed bij het betreden van het huis",
+      "uz": "Uyga kirayotganda o'qiladigan duo",
+      "ms": "Doa Masuk Rumah",
+      "ru": "Молитва при входе в дом"
+    },
+    "pronunciation": {
+      "tr": "Bismillâhi velecnâ, ve bismillâhi haracnâ, ve alâ Rabbinâ tevekkelnâ.",
+      "en": "Bismillâhi velecnâ, ve bismillâhi haracnâ, ve alâ Rabbinâ tevekkelnâ.",
+      "ar": "Bismillâhi velecnâ, ve bismillâhi haracnâ, ve alâ Rabbinâ tevekkelnâ.",
+      "de": "Bismillâhi velecnâ, ve bismillâhi haracnâ, ve alâ Rabbinâ tevekkelnâ.",
+      "fr": "Bismillâhi velecnâ, ve bismillâhi haracnâ, ve alâ Rabbinâ tevekkelnâ.",
+      "nl": "Bismillâhi velecnâ, ve bismillâhi haracnâ, ve alâ Rabbinâ tevekkelnâ.",
+      "uz": "Bismillâhi velecnâ, ve bismillâhi haracnâ, ve alâ Rabbinâ tevekkelnâ.",
+      "ms": "Bismillâhi velecnâ, ve bismillâhi haracnâ, ve alâ Rabbinâ tevekkelnâ.",
+      "ru": "Bismillâhi velecnâ, ve bismillâhi haracnâ, ve alâ Rabbinâ tevekkelnâ."
+    },
+    "translation": {
+      "tr": "Allah'ın adıyla girdik, Allah'ın adıyla çıktık ve sadece Rabbimize tevekkül ettik.",
+      "en": "We entered in the name of Allah, we exited in the name of Allah and we put our trust only in our Lord.",
+      "ar": "بسم الله ولجنا، وبسم الله خرجنا، وعلى ربنا توكلنا.",
+      "de": "Im Namen Allahs sind wir eingetreten, im Namen Allahs sind wir hinausgegangen und nur auf unseren Herrn haben wir vertraut.",
+      "fr": "Au nom d'Allah nous sommes entrés, au nom d'Allah nous sommes sortis, et c'est en notre Seigneur que nous plaçons notre confiance.",
+      "nl": "In de naam van Allah zijn wij binnengekomen, in de naam van Allah zijn wij naar buiten gegaan en wij hebben ons vertrouwen enkel in onze Heer gesteld.",
+      "uz": "Allohning nomi bilan kirdik, Allohning nomi bilan chiqdik va faqat Parvardigorimizga tavakkal qildik.",
+      "ms": "Dengan nama Allah kami masuk, dengan nama Allah kami keluar, dan hanya kepada Tuhan kami, kami berserah diri.",
+      "ru": "С именем Аллаха мы вошли, с именем Аллаха вышли, и лишь на нашего Господа мы уповаем."
+    },
+    "source": {
+      "tr": "Ebû Dâvûd, Edeb, 103",
+      "en": "Abu Dawud, Adab, 103",
+      "ar": "أبو داود، الأدب، 103",
+      "de": "Abu Dawud, Adab, 103",
+      "fr": "Abou Daoud, Adab, 103",
+      "nl": "Abu Dawud, Adab, 103",
+      "uz": "Abu Dovud, Adab, 103",
+      "ms": "Abu Dawud, Adab, 103",
+      "ru": "Абу Дауд, Адаб, 103"
+    }
+  },
+  {
+    "id": "d111",
+    "arabic": "اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ",
+    "category": {
+      "tr": "Ezan & Namaz",
+      "en": "Prayer & Adhan",
+      "ar": "الصلاة والأذان",
+      "de": "Gebet & Adhan",
+      "fr": "Prière & Adhan",
+      "nl": "Gebed & Adhan",
+      "uz": "Namoz va Azon",
+      "ms": "Solat & Azan",
+      "ru": "Молитва и Азан"
+    },
+    "title": {
+      "tr": "Camiye Girerken",
+      "en": "Entering the Mosque",
+      "ar": "دعاء دخول المسجد",
+      "de": "Beim Betreten der Moschee",
+      "fr": "En entrant à la mosquée",
+      "nl": "Bij het betreden van de moskee",
+      "uz": "Masjidga kirishda",
+      "ms": "Doa Masuk Masjid",
+      "ru": "При входе в мечеть"
+    },
+    "pronunciation": {
+      "tr": "Allâhümmefteh lî ebvâbe rahmetik.",
+      "en": "Allâhümmefteh lî ebvâbe rahmetik.",
+      "ar": "Allâhümmefteh lî ebvâbe rahmetik.",
+      "de": "Allâhümmefteh lî ebvâbe rahmetik.",
+      "fr": "Allâhümmefteh lî ebvâbe rahmetik.",
+      "nl": "Allâhümmefteh lî ebvâbe rahmetik.",
+      "uz": "Allâhümmefteh lî ebvâbe rahmetik.",
+      "ms": "Allâhümmefteh lî ebvâbe rahmetik.",
+      "ru": "Allâhümmefteh lî ebvâbe rahmetik."
+    },
+    "translation": {
+      "tr": "Allah'ım! Bana rahmetinin kapılarını aç.",
+      "en": "O Allah! Open the doors of Your mercy for me.",
+      "ar": "اللهم افتح لي أبواب رحمتك.",
+      "de": "O Allah! Öffne mir die Tore Deiner Barmherzigkeit.",
+      "fr": "Ô Allah ! Ouvre-moi les portes de Ta miséricorde.",
+      "nl": "O Allah! Open de deuren van Uw barmhartigheid voor mij.",
+      "uz": "Yo Alloh! Menga rahmating eshiklarini ochgin.",
+      "ms": "Ya Allah! Bukakanlah untukku pintu-pintu rahmat-Mu.",
+      "ru": "О Аллах! Открой для меня врата Твоей милости."
+    },
+    "source": {
+      "tr": "Müslim, Müsâfirîn, 68",
+      "en": "Muslim, Musafirin, 68",
+      "ar": "مسلم، صلاة المسافرين، 68",
+      "de": "Muslim, Musafirin, 68",
+      "fr": "Mouslim, Voyageurs, 68",
+      "nl": "Muslim, Reizigers, 68",
+      "uz": "Muslim, Musofirin, 68",
+      "ms": "Muslim, Musafir, 68",
+      "ru": "Муслим, Мусафирин, 68"
+    }
+  },
+  {
+    "id": "d112",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ",
+    "category": {
+      "tr": "Ezan & Namaz",
+      "en": "Prayer & Adhan",
+      "ar": "الصلاة والأذان",
+      "de": "Gebet & Adhan",
+      "fr": "Prière & Adhan",
+      "nl": "Gebed & Adhan",
+      "uz": "Namoz va Azon",
+      "ms": "Solat & Azan",
+      "ru": "Молитва и Азан"
+    },
+    "title": {
+      "tr": "Camiden Çıkarken",
+      "en": "Leaving the Mosque",
+      "ar": "دعاء الخروج من المسجد",
+      "de": "Beim Verlassen der Moschee",
+      "fr": "En sortant de la mosquée",
+      "nl": "Bij het verlaten van de moskee",
+      "uz": "Masjiddan chiqishda",
+      "ms": "Doa Keluar Masjid",
+      "ru": "При выходе из мечети"
+    },
+    "pronunciation": {
+      "tr": "Allâhümme innî es'elüke min fadlik.",
+      "en": "Allâhümme innî es'elüke min fadlik.",
+      "ar": "Allâhümme innî es'elüke min fadlik.",
+      "de": "Allâhümme innî es'elüke min fadlik.",
+      "fr": "Allâhümme innî es'elüke min fadlik.",
+      "nl": "Allâhümme innî es'elüke min fadlik.",
+      "uz": "Allâhümme innî es'elüke min fadlik.",
+      "ms": "Allâhümme innî es'elüke min fadlik.",
+      "ru": "Allâhümme innî es'elüke min fadlik."
+    },
+    "translation": {
+      "tr": "Allah'ım! Senin lütfundan ve kereminden isterim.",
+      "en": "O Allah! I ask You from Your grace and generosity.",
+      "ar": "اللهم إني أسألك من فضلك.",
+      "de": "O Allah! Ich bitte Dich um Deine Gnade und Großzügigkeit.",
+      "fr": "Ô Allah ! Je Te demande de Ta grâce et de Ta générosité.",
+      "nl": "O Allah! Ik vraag U om Uw genade en vrijgevigheid.",
+      "uz": "Yo Alloh! Sening fazling va karamingdan so'rayman.",
+      "ms": "Ya Allah! Sesungguhnya aku memohon daripada limpah kurnia-Mu.",
+      "ru": "О Аллах! Я прошу у Тебя из Твоей милости и щедрости."
+    },
+    "source": {
+      "tr": "Müslim, Müsâfirîn, 68",
+      "en": "Muslim, Musafirin, 68",
+      "ar": "مسلم، صلاة المسافرين، 68",
+      "de": "Muslim, Musafirin, 68",
+      "fr": "Mouslim, Voyageurs, 68",
+      "nl": "Muslim, Reizigers, 68",
+      "uz": "Muslim, Musofirin, 68",
+      "ms": "Muslim, Musafir, 68",
+      "ru": "Муслим, Мусафирин, 68"
+    }
+  },
+  {
+    "id": "d113",
+    "arabic": "أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ",
+    "category": {
+      "tr": "Günlük Yaşam",
+      "en": "Daily Life",
+      "ar": "الحياة اليومية",
+      "de": "Alltagsleben",
+      "fr": "Vie Quotidienne",
+      "nl": "Dagelijks Leven",
+      "uz": "Kundalik Hayot",
+      "ms": "Kehidupan Harian",
+      "ru": "Повседневная Жизнь"
+    },
+    "title": {
+      "tr": "Öfkelenince Okunacak Dua",
+      "en": "Prayer to Say When Angry",
+      "ar": "دعاء عند الغضب",
+      "de": "Gebet bei Wut",
+      "fr": "Prière en cas de colère",
+      "nl": "Gebed bij woede",
+      "uz": "G'azablanganda o'qiladigan duo",
+      "ms": "Doa Ketika Marah",
+      "ru": "Молитва во время гнева"
+    },
+    "pronunciation": {
+      "tr": "Eûzü billâhi mineşşeytânirracîm.",
+      "en": "Eûzü billâhi mineşşeytânirracîm.",
+      "ar": "Eûzü billâhi mineşşeytânirracîm.",
+      "de": "Eûzü billâhi mineşşeytânirracîm.",
+      "fr": "Eûzü billâhi mineşşeytânirracîm.",
+      "nl": "Eûzü billâhi mineşşeytânirracîm.",
+      "uz": "Eûzü billâhi mineşşeytânirracîm.",
+      "ms": "Eûzü billâhi mineşşeytânirracîm.",
+      "ru": "Eûzü billâhi mineşşeytânirracîm."
+    },
+    "translation": {
+      "tr": "Kovulmuş şeytandan Allah'a sığınırım.",
+      "en": "I seek refuge in Allah from the accursed devil.",
+      "ar": "أعوذ بالله من الشيطان الرجيم.",
+      "de": "Ich suche Zuflucht bei Allah vor dem verfluchten Teufel.",
+      "fr": "Je cherche refuge auprès d'Allah contre le diable banni.",
+      "nl": "Ik zoek mijn toevlucht bij Allah tegen de vervloekte duivel.",
+      "uz": "Quvilgan shayton yomonligidan Allohdan panoh so'rayman.",
+      "ms": "Aku berlindung dengan Allah daripada syaitan yang direjam.",
+      "ru": "Прибегаю к защите Аллаха от проклятого сатаны."
+    },
+    "source": {
+      "tr": "Buhârî, Bed'ü'l-Halk, 11",
+      "en": "Bukhari, Bad'ul-Khalq, 11",
+      "ar": "البخاري، بدء الخلق، 11",
+      "de": "Bukhari, Bad'ul-Khalq, 11",
+      "fr": "Boukhari, Création, 11",
+      "nl": "Bukhari, Schepping, 11",
+      "uz": "Buxoriy, Badihul xalq, 11",
+      "ms": "Bukhari, Permulaan Penciptaan, 11",
+      "ru": "Бухари, Начало творения, 11"
+    }
+  },
+  {
+    "id": "d114",
+    "arabic": "اللَّهُمَّ لَا سَهْلَ إِلَّا مَا جَعَلْتَهُ سَهْلًا، وَأَنْتَ تَجْعَلُ الْحَزْنَ سَهْلًا إِذَا شِئْتَ",
+    "category": {
+      "tr": "Sıkıntı & Şifa",
+      "en": "Healing & Hardship",
+      "ar": "الشفاء والضيق",
+      "de": "Heilung & Not",
+      "fr": "Guérison & Épreuve",
+      "nl": "Genezing & Ontbering",
+      "uz": "Shifo va Qiyinchilik",
+      "ms": "Penyembuhan & Kesukaran",
+      "ru": "Исцеление и Трудности"
+    },
+    "title": {
+      "tr": "Zorlukla Karşılaşınca (Rabbi Yessir'e ek)",
+      "en": "When Encountering Difficulty",
+      "ar": "عند مواجهة الصعاب",
+      "de": "Bei Schwierigkeiten",
+      "fr": "En cas de difficulté",
+      "nl": "Bij moeilijkheden",
+      "uz": "Qiyinchilikka duch kelganda",
+      "ms": "Ketika Menghadapi Kesukaran",
+      "ru": "При столкновении с трудностями"
+    },
+    "pronunciation": {
+      "tr": "Allâhümme lâ sehle illâ mâ cealtehû sehlâ, ve ente tec'alü'l-hazne sehlâ izâ şi'te.",
+      "en": "Allâhümme lâ sehle illâ mâ cealtehû sehlâ, ve ente tec'alü'l-hazne sehlâ izâ şi'te.",
+      "ar": "Allâhümme lâ sehle illâ mâ cealtehû sehlâ, ve ente tec'alü'l-hazne sehlâ izâ şi'te.",
+      "de": "Allâhümme lâ sehle illâ mâ cealtehû sehlâ, ve ente tec'alü'l-hazne sehlâ izâ şi'te.",
+      "fr": "Allâhümme lâ sehle illâ mâ cealtehû sehlâ, ve ente tec'alü'l-hazne sehlâ izâ şi'te.",
+      "nl": "Allâhümme lâ sehle illâ mâ cealtehû sehlâ, ve ente tec'alü'l-hazne sehlâ izâ şi'te.",
+      "uz": "Allâhümme lâ sehle illâ mâ cealtehû sehlâ, ve ente tec'alü'l-hazne sehlâ izâ şi'te.",
+      "ms": "Allâhümme lâ sehle illâ mâ cealtehû sehlâ, ve ente tec'alü'l-hazne sehlâ izâ şi'te.",
+      "ru": "Allâhümme lâ sehle illâ mâ cealtehû sehlâ, ve ente tec'alü'l-hazne sehlâ izâ şi'te."
+    },
+    "translation": {
+      "tr": "Allah'ım! Senin kolay kıldığından başka kolay yoktur. Sen dilersen zor olanı kolay yaparsın.",
+      "en": "O Allah! There is nothing easy except what You make easy. If You wish, You can make the difficult task easy.",
+      "ar": "اللهم لا سهل إلا ما جعلته سهلا، وأنت تجعل الحزن سهلا إذا شئت.",
+      "de": "O Allah! Es gibt nichts Leichtes, außer was Du leicht machst. Und Du machst das Schwere leicht, wenn Du es willst.",
+      "fr": "Ô Allah ! Il n'y a de facile que ce que Tu rends facile. Et Tu rends la difficulté facile si Tu le veux.",
+      "nl": "O Allah! Er is niets makkelijk behalve wat U makkelijk maakt. En U maakt de moeilijkheid makkelijk als U dat wilt.",
+      "uz": "Yo Alloh! Sen oson qilgan narsadan boshqa oson narsa yo'q. Agar xohlasang, qiyin narsani ham oson qilasan.",
+      "ms": "Ya Allah! Tiada sesuatu yang mudah melainkan apa yang Engkau jadikan mudah. Dan Engkaulah yang menjadikan perkara yang sukar itu mudah apabila Engkau kehendaki.",
+      "ru": "О Аллах! Нет ничего легкого, кроме того, что Ты сделал легким. И Ты делаешь трудное легким, если пожелаешь."
+    },
+    "source": {
+      "tr": "İbn Hıbbân, Sahîh, No: 974",
+      "en": "Ibn Hibban, Sahih, No: 974",
+      "ar": "ابن حبان، صحيح، رقم: 974",
+      "de": "Ibn Hibban, Sahih, Nr: 974",
+      "fr": "Ibn Hibban, Sahih, No: 974",
+      "nl": "Ibn Hibban, Sahih, Nr: 974",
+      "uz": "Ibn Hibbon, Sahih, 974",
+      "ms": "Ibn Hibban, Sahih, No: 974",
+      "ru": "Ибн Хиббан, Сахих, № 974"
+    }
+  },
+  {
+    "id": "d115",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ، وَأَعُوذُ بِكَ مِنَ الْعَجْزِ وَالْكَسَلِ، وَأَعُوذُ بِكَ مِنَ الْجُبْنِ وَالْبُخْلِ، وَأَعُوذُ بِكَ مِنْ غَلَبَةِ الدَّيْنِ وَقَهْرِ الرِّجَالِ",
+    "category": {
+      "tr": "Sıkıntı & Şifa",
+      "en": "Healing & Hardship",
+      "ar": "الشفاء والضيق",
+      "de": "Heilung & Not",
+      "fr": "Guérison & Épreuve",
+      "nl": "Genezing & Ontbering",
+      "uz": "Shifo va Qiyinchilik",
+      "ms": "Penyembuhan & Kesukaran",
+      "ru": "Исцеление и Трудности"
+    },
+    "title": {
+      "tr": "Borçtan ve Sıkıntıdan Kurtulma Duası",
+      "en": "Prayer for Relief from Debt and Distress",
+      "ar": "دعاء الخلاص من الدين والضيق",
+      "de": "Gebet zur Befreiung von Schulden und Not",
+      "fr": "Prière de soulagement de la dette et de la détresse",
+      "nl": "Gebed voor verlossing van schuld en nood",
+      "uz": "Qarz va qiyinchilikdan qutulish duosi",
+      "ms": "Doa Pelepasan daripada Hutang dan Kesusahan",
+      "ru": "Молитва об избавлении от долгов и трудностей"
+    },
+    "pronunciation": {
+      "tr": "Allâhümme innî eûzü bike mine'l-hemmi ve'l-hazen, ve eûzü bike mine'l-aczi ve'l-kesel, ve eûzü bike mine'l-cübni ve'l-buhl, ve eûzü bike min ğalebeti'd-deyni ve kahri'r-ricâl.",
+      "en": "Allâhümme innî eûzü bike mine'l-hemmi ve'l-hazen, ve eûzü bike mine'l-aczi ve'l-kesel, ve eûzü bike mine'l-cübni ve'l-buhl, ve eûzü bike min ğalebeti'd-deyni ve kahri'r-ricâl.",
+      "ar": "Allâhümme innî eûzü bike mine'l-hemmi ve'l-hazen, ve eûzü bike mine'l-aczi ve'l-kesel, ve eûzü bike mine'l-cübni ve'l-buhl, ve eûzü bike min ğalebeti'd-deyni ve kahri'r-ricâl.",
+      "de": "Allâhümme innî eûzü bike mine'l-hemmi ve'l-hazen, ve eûzü bike mine'l-aczi ve'l-kesel, ve eûzü bike mine'l-cübni ve'l-buhl, ve eûzü bike min ğalebeti'd-deyni ve kahri'r-ricâl.",
+      "fr": "Allâhümme innî eûzü bike mine'l-hemmi ve'l-hazen, ve eûzü bike mine'l-aczi ve'l-kesel, ve eûzü bike mine'l-cübni ve'l-buhl, ve eûzü bike min ğalebeti'd-deyni ve kahri'r-ricâl.",
+      "nl": "Allâhümme innî eûzü bike mine'l-hemmi ve'l-hazen, ve eûzü bike mine'l-aczi ve'l-kesel, ve eûzü bike mine'l-cübni ve'l-buhl, ve eûzü bike min ğalebeti'd-deyni ve kahri'r-ricâl.",
+      "uz": "Allâhümme innî eûzü bike mine'l-hemmi ve'l-hazen, ve eûzü bike mine'l-aczi ve'l-kesel, ve eûzü bike mine'l-cübni ve'l-buhl, ve eûzü bike min ğalebeti'd-deyni ve kahri'r-ricâl.",
+      "ms": "Allâhümme innî eûzü bike mine'l-hemmi ve'l-hazen, ve eûzü bike mine'l-aczi ve'l-kesel, ve eûzü bike mine'l-cübni ve'l-buhl, ve eûzü bike min ğalebeti'd-deyni ve kahri'r-ricâl.",
+      "ru": "Allâhümme innî eûzü bike mine'l-hemmi ve'l-hazen, ve eûzü bike mine'l-aczi ve'l-kesel, ve eûzü bike mine'l-cübni ve'l-buhl, ve eûzü bike min ğalebeti'd-deyni ve kahri'r-ricâl."
+    },
+    "translation": {
+      "tr": "Allah'ım! Kederden ve hüzünden sana sığınırım. Acizlikten ve tembellikten sana sığınırım. Korkaklıktan ve cimrilikten sana sığınırım. Borç altında ezilmekten ve insanların kahrından sana sığınırım.",
+      "en": "O Allah! I seek refuge in You from anxiety and sorrow. I seek refuge in You from weakness and laziness. I seek refuge in You from cowardice and miserliness. I seek refuge in You from being overwhelmed by debt and oppressed by men.",
+      "ar": "اللهم إني أعوذ بك من الهم والحزن، وأعوذ بك من العجز والكسل، وأعوذ بك من الجبن والبخل، وأعوذ بك من غلبة الدين وقهر الرجال.",
+      "de": "O Allah! Ich suche Zuflucht bei Dir vor Sorgen und Trauer. Ich suche Zuflucht bei Dir vor Schwäche und Faulheit. Ich suche Zuflucht bei Dir vor Feigheit und Geiz. Ich suche Zuflucht bei Dir davor, von Schulden überwältigt und von Menschen unterdrückt zu werden.",
+      "fr": "Ô Allah ! Je cherche refuge auprès de Toi contre l'anxiété et la tristesse. Je cherche refuge auprès de Toi contre l'impuissance et la paresse. Je cherche refuge auprès de Toi contre la lâcheté et l'avarice. Je cherche refuge auprès de Toi contre le fait d'être submergé par les dettes et opprimé par les hommes.",
+      "nl": "O Allah! Ik zoek mijn toevlucht bij U tegen bezorgdheid en verdriet. Ik zoek mijn toevlucht bij U tegen zwakte en luiheid. Ik zoek mijn toevlucht bij U tegen lafheid en gierigheid. Ik zoek mijn toevlucht bij U tegen het overweldigd worden door schulden en de onderdrukking door mannen.",
+      "uz": "Yo Alloh! G'am-tashvish va qayg'udan Sendan panoh so'rayman. Ojizlik va dangasalikdan Sendan panoh so'rayman. Qo'rqoqlik va baxillikdan Sendan panoh so'rayman. Qarz ostida ezilishdan va odamlarning qahr-g'azabidan Sendan panoh so'rayman.",
+      "ms": "Ya Allah! Aku berlindung dengan-Mu daripada kegelisahan dan kesedihan. Aku berlindung dengan-Mu daripada kelemahan dan kemalasan. Aku berlindung dengan-Mu daripada sifat penakut dan kedekut. Aku berlindung dengan-Mu daripada bebanan hutang dan penindasan manusia.",
+      "ru": "О Аллах! Я прибегаю к Тебе от беспокойства и печали. Я прибегаю к Тебе от слабости и лени. Я прибегаю к Тебе от трусости и скупости. Я прибегаю к Тебе от бремени долгов и притеснения со стороны людей."
+    },
+    "source": {
+      "tr": "Buhârî, Deavât, 36",
+      "en": "Bukhari, Da'awat, 36",
+      "ar": "البخاري، الدعوات، 36",
+      "de": "Bukhari, Da'awat, 36",
+      "fr": "Boukhari, Da'awat, 36",
+      "nl": "Bukhari, Da'awat, 36",
+      "uz": "Buxoriy, Daavot, 36",
+      "ms": "Bukhari, Da'awat, 36",
+      "ru": "Бухари, Даават, 36"
+    }
+  },
+  {
+    "id": "d116",
+    "arabic": "يَا مُقَلِّبَ الْقُلُوبِ ثَبِّتْ قَلْبِي عَلَى دِينِكَ",
+    "category": {
+      "tr": "Peygamber Duaları",
+      "en": "Prophetic Duas",
+      "ar": "أدعية نبوية",
+      "de": "Prophetische Duas",
+      "fr": "Invocations Prophétiques",
+      "nl": "Profetische Smeekbeden",
+      "uz": "Payg'ambar Duolari",
+      "ms": "Doa Kenabian",
+      "ru": "Пророческие Дуа"
+    },
+    "title": {
+      "tr": "Peygamberimizin Sıkça Ettiği Dua",
+      "en": "The Frequently Made Prayer of the Prophet",
+      "ar": "دعاء النبي المتكرر",
+      "de": "Das häufige Gebet des Propheten",
+      "fr": "La prière fréquente du Prophète",
+      "nl": "Het frequente gebed van de Profeet",
+      "uz": "Payg'ambarimizning ko'p aytgan duosi",
+      "ms": "Doa Lazim Nabi",
+      "ru": "Частая молитва Пророка"
+    },
+    "pronunciation": {
+      "tr": "Yâ mukallibe'l-kulûb, sebbit kalbî alâ dînike.",
+      "en": "Yâ mukallibe'l-kulûb, sebbit kalbî alâ dînike.",
+      "ar": "Yâ mukallibe'l-kulûb, sebbit kalbî alâ dînike.",
+      "de": "Yâ mukallibe'l-kulûb, sebbit kalbî alâ dînike.",
+      "fr": "Yâ mukallibe'l-kulûb, sebbit kalbî alâ dînike.",
+      "nl": "Yâ mukallibe'l-kulûb, sebbit kalbî alâ dînike.",
+      "uz": "Yâ mukallibe'l-kulûb, sebbit kalbî alâ dînike.",
+      "ms": "Yâ mukallibe'l-kulûb, sebbit kalbî alâ dînike.",
+      "ru": "Yâ mukallibe'l-kulûb, sebbit kalbî alâ dînike."
+    },
+    "translation": {
+      "tr": "Ey kalpleri halden hale çeviren Allah'ım! Benim kalbimi senin dinin üzere sabit kıl.",
+      "en": "O Turner of hearts, make my heart firm upon Your religion.",
+      "ar": "يا مقلب القلوب ثبت قلبي على دينك.",
+      "de": "O Wender der Herzen, festige mein Herz in Deiner Religion.",
+      "fr": "Ô Celui qui fait tourner les cœurs, affermis mon cœur sur Ta religion.",
+      "nl": "O Wender der harten, maak mijn hart standvastig in Uw religie.",
+      "uz": "Ey qalblarni o'zgartiruvchi Zot! Qalbimni O'zingning diningda sobit qil.",
+      "ms": "Wahai Tuhan yang membolak-balikkan hati, tetapkanlah hatiku di atas agama-Mu.",
+      "ru": "О Изменяющий сердца, укрепи мое сердце в Твоей религии."
+    },
+    "source": {
+      "tr": "Tirmizî, Kader, 7",
+      "en": "Tirmidhi, Qadar, 7",
+      "ar": "الترمذي، القدر، 7",
+      "de": "Tirmidhi, Qadar, 7",
+      "fr": "Tirmidhi, Qadar, 7",
+      "nl": "Tirmidhi, Qadar, 7",
+      "uz": "Termiziy, Qadar, 7",
+      "ms": "Tirmidhi, Qadar, 7",
+      "ru": "Тирмизи, Кадар, 7"
+    }
+  },
+  {
+    "id": "d117",
+    "arabic": "اللَّهُمَّ لاَ تَقْتُلْنَا بِغَضَبِكَ، وَلاَ تُهْلِكْنَا بِعَذَابِكَ، وَعَافِنَا قَبْلَ ذَلِكَ",
+    "category": {
+      "tr": "Günlük Yaşam",
+      "en": "Daily Life",
+      "ar": "الحياة اليومية",
+      "de": "Alltagsleben",
+      "fr": "Vie Quotidienne",
+      "nl": "Dagelijks Leven",
+      "uz": "Kundalik Hayot",
+      "ms": "Kehidupan Harian",
+      "ru": "Повседневная Жизнь"
+    },
+    "title": {
+      "tr": "Gök Gürlediğinde Okunacak Dua",
+      "en": "Prayer When Hearing Thunder",
+      "ar": "دعاء عند سماع الرعد",
+      "de": "Gebet beim Hören von Donner",
+      "fr": "Prière en entendant le tonnerre",
+      "nl": "Gebed bij het horen van donder",
+      "uz": "Momaqaldiroq gumburlaganda o'qiladigan duo",
+      "ms": "Doa Mendengar Guruh",
+      "ru": "Молитва при громе"
+    },
+    "pronunciation": {
+      "tr": "Allâhümme lâ taktülnâ bi-ğadabike ve lâ tühliknâ bi-azâbike, ve âfinâ kable zâlik.",
+      "en": "Allâhümme lâ taktülnâ bi-ğadabike ve lâ tühliknâ bi-azâbike, ve âfinâ kable zâlik.",
+      "ar": "Allâhümme lâ taktülnâ bi-ğadabike ve lâ tühliknâ bi-azâbike, ve âfinâ kable zâlik.",
+      "de": "Allâhümme lâ taktülnâ bi-ğadabike ve lâ tühliknâ bi-azâbike, ve âfinâ kable zâlik.",
+      "fr": "Allâhümme lâ taktülnâ bi-ğadabike ve lâ tühliknâ bi-azâbike, ve âfinâ kable zâlik.",
+      "nl": "Allâhümme lâ taktülnâ bi-ğadabike ve lâ tühliknâ bi-azâbike, ve âfinâ kable zâlik.",
+      "uz": "Allâhümme lâ taktülnâ bi-ğadabike ve lâ tühliknâ bi-azâbike, ve âfinâ kable zâlik.",
+      "ms": "Allâhümme lâ taktülnâ bi-ğadabike ve lâ tühliknâ bi-azâbike, ve âfinâ kable zâlik.",
+      "ru": "Allâhümme lâ taktülnâ bi-ğadabike ve lâ tühliknâ bi-azâbike, ve âfinâ kable zâlik."
+    },
+    "translation": {
+      "tr": "Allah'ım! Bizi gazabınla öldürme, bizi azabınla helak etme. Bundan önce bize afiyet (güvenlik) ver.",
+      "en": "O Allah! Do not kill us with Your wrath, do not destroy us with Your punishment, and grant us well-being before that.",
+      "ar": "اللهم لا تقتلنا بغضبك، ولا تهلكنا بعذابك، وعافنا قبل ذلك.",
+      "de": "O Allah! Töte uns nicht mit Deinem Zorn, vernichte uns nicht mit Deiner Strafe und gewähre uns vorher Wohlergehen.",
+      "fr": "Ô Allah ! Ne nous tue pas par Ta colère, ne nous détruis pas par Ton châtiment, et accorde-nous le salut avant cela.",
+      "nl": "O Allah! Dood ons niet met Uw toorn, vernietig ons niet met Uw straf, en schenk ons welzijn daarvoor.",
+      "uz": "Yo Alloh! Bizni g'azabing bilan o'ldirma, azobing bilan halok qilma. Bundan oldin bizga ofiyat (omonlik) ber.",
+      "ms": "Ya Allah! Janganlah Engkau matikan kami dengan kemurkaan-Mu, janganlah Engkau binasakan kami dengan azab-Mu, dan kurniakanlah kesejahteraan kepada kami sebelum itu.",
+      "ru": "О Аллах! Не убивай нас Своим гневом, не губи нас Своим наказанием и даруй нам благополучие до этого."
+    },
+    "source": {
+      "tr": "Tirmizî, Deavât, 50",
+      "en": "Tirmidhi, Da'awat, 50",
+      "ar": "الترمذي، الدعوات، 50",
+      "de": "Tirmidhi, Da'awat, 50",
+      "fr": "Tirmidhi, Da'awat, 50",
+      "nl": "Tirmidhi, Da'awat, 50",
+      "uz": "Termiziy, Daavot, 50",
+      "ms": "Tirmidhi, Da'awat, 50",
+      "ru": "Тирмизи, Даават, 50"
+    }
+  },
+  {
+    "id": "d118",
+    "arabic": "اللَّهُمَّ أَهِلَّهُ عَلَيْنَا بِالْأَمْنِ وَالْإِيمَانِ، وَالسَّلَامَةِ وَالْإِسْلَامِ، وَالتَّوْفِيقِ لِمَا تُحِبُّ وَتَرْضَى، رَبُّنَا وَرَبُّكَ اللَّهُ",
+    "category": {
+      "tr": "Günlük Yaşam",
+      "en": "Daily Life",
+      "ar": "الحياة اليومية",
+      "de": "Alltagsleben",
+      "fr": "Vie Quotidienne",
+      "nl": "Dagelijks Leven",
+      "uz": "Kundalik Hayot",
+      "ms": "Kehidupan Harian",
+      "ru": "Повседневная Жизнь"
+    },
+    "title": {
+      "tr": "Yeni Ay (Hilal) Görülünce",
+      "en": "When Seeing the New Moon (Crescent)",
+      "ar": "عند رؤية الهلال",
+      "de": "Bei Sichtung des Neumondes",
+      "fr": "À la vue de la nouvelle lune",
+      "nl": "Bij het zien van de nieuwe maan",
+      "uz": "Yangi oy (hilol) ko'ringanda",
+      "ms": "Ketika Melihat Anak Bulan",
+      "ru": "При виде новолуния (полумесяца)"
+    },
+    "pronunciation": {
+      "tr": "Allâhümme ehillehû aleynâ bi'l-emni ve'l-îmân, ve's-selâmeti ve'l-islâm, ve't-tevfîkı limâ tühıbbü ve terdâ, Rabbünâ ve Rabbükellâh.",
+      "en": "Allâhümme ehillehû aleynâ bi'l-emni ve'l-îmân, ve's-selâmeti ve'l-islâm, ve't-tevfîkı limâ tühıbbü ve terdâ, Rabbünâ ve Rabbükellâh.",
+      "ar": "Allâhümme ehillehû aleynâ bi'l-emni ve'l-îmân, ve's-selâmeti ve'l-islâm, ve't-tevfîkı limâ tühıbbü ve terdâ, Rabbünâ ve Rabbükellâh.",
+      "de": "Allâhümme ehillehû aleynâ bi'l-emni ve'l-îmân, ve's-selâmeti ve'l-islâm, ve't-tevfîkı limâ tühıbbü ve terdâ, Rabbünâ ve Rabbükellâh.",
+      "fr": "Allâhümme ehillehû aleynâ bi'l-emni ve'l-îmân, ve's-selâmeti ve'l-islâm, ve't-tevfîkı limâ tühıbbü ve terdâ, Rabbünâ ve Rabbükellâh.",
+      "nl": "Allâhümme ehillehû aleynâ bi'l-emni ve'l-îmân, ve's-selâmeti ve'l-islâm, ve't-tevfîkı limâ tühıbbü ve terdâ, Rabbünâ ve Rabbükellâh.",
+      "uz": "Allâhümme ehillehû aleynâ bi'l-emni ve'l-îmân, ve's-selâmeti ve'l-islâm, ve't-tevfîkı limâ tühıbbü ve terdâ, Rabbünâ ve Rabbükellâh.",
+      "ms": "Allâhümme ehillehû aleynâ bi'l-emni ve'l-îmân, ve's-selâmeti ve'l-islâm, ve't-tevfîkı limâ tühıbbü ve terdâ, Rabbünâ ve Rabbükellâh.",
+      "ru": "Allâhümme ehillehû aleynâ bi'l-emni ve'l-îmân, ve's-selâmeti ve'l-islâm, ve't-tevfîkı limâ tühıbbü ve terdâ, Rabbünâ ve Rabbükellâh."
+    },
+    "translation": {
+      "tr": "Allah'ım! Bu yeni ayı bize emniyet, iman, selamet, İslam ve senin sevip razı olduğun işlere muvaffakiyet ayı kıl. (Ey hilal!) Bizim de senin de Rabbin Allah'tır.",
+      "en": "O Allah! Bring this new moon upon us in security, faith, peace, Islam, and success to what You love and approve. (O crescent!) Our Lord and your Lord is Allah.",
+      "ar": "اللهم أهله علينا بالأمن والإيمان، والسلامة والإسلام، والتوفيق لما تحب وترضى، ربنا وربك الله.",
+      "de": "O Allah! Lasse diesen Neumond für uns mit Sicherheit, Glaube, Frieden, Islam und Erfolg für das beginnen, was Du liebst und womit Du zufrieden bist. Unser Herr und dein Herr ist Allah.",
+      "fr": "Ô Allah ! Fais que cette nouvelle lune apparaisse sur nous avec sécurité, foi, paix, Islam et réussite dans ce que Tu aimes et agréées. Notre Seigneur et ton Seigneur est Allah.",
+      "nl": "O Allah! Laat deze nieuwe maan over ons opkomen in veiligheid, geloof, vrede, islam en succes in wat U liefhebt en goedkeurt. Onze Heer en jouw Heer is Allah.",
+      "uz": "Yo Alloh! Bu yangi oyni bizga tinchlik, iymon, salomatlik, Islom va Sen yaxshi ko'radigan va rozi bo'ladigan ishlarga muvaffaqiyat oyi qilgin. (Ey hilol!) Bizning ham, sening ham Parvardigoring Allohdir.",
+      "ms": "Ya Allah! Jadikanlah anak bulan ini terbit ke atas kami dengan keamanan, keimanan, kesejahteraan, Islam, dan petunjuk kepada apa yang Engkau kasihi dan redai. (Wahai bulan!) Tuhanku dan Tuhanmu ialah Allah.",
+      "ru": "О Аллах! Возведи над нами этот полумесяц с безопасностью, верой, миром, исламом и успехом в том, что Ты любишь и чем Ты доволен. Наш Господь и твой Господь — Аллах."
+    },
+    "source": {
+      "tr": "Tirmizî, Deavât, 51",
+      "en": "Tirmidhi, Da'awat, 51",
+      "ar": "الترمذي، الدعوات، 51",
+      "de": "Tirmidhi, Da'awat, 51",
+      "fr": "Tirmidhi, Da'awat, 51",
+      "nl": "Tirmidhi, Da'awat, 51",
+      "uz": "Termiziy, Daavot, 51",
+      "ms": "Tirmidhi, Da'awat, 51",
+      "ru": "Тирмизи, Даават, 51"
+    }
+  },
+  {
+    "id": "d119",
+    "arabic": "إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ اللَّهُمَّ أْجُرْنِي فِي مُصِيبَتِي وَأَخْلِفْ لِي خَيْرًا مِنْهَا",
+    "category": {
+      "tr": "Sıkıntı & Şifa",
+      "en": "Healing & Hardship",
+      "ar": "الشفاء والضيق",
+      "de": "Heilung & Not",
+      "fr": "Guérison & Épreuve",
+      "nl": "Genezing & Ontbering",
+      "uz": "Shifo va Qiyinchilik",
+      "ms": "Penyembuhan & Kesukaran",
+      "ru": "Исцеление и Трудности"
+    },
+    "title": {
+      "tr": "Musibet ve Felaket Anında",
+      "en": "In Times of Calamity and Disaster",
+      "ar": "عند المصيبة والكارثة",
+      "de": "Bei Unglück und Katastrophen",
+      "fr": "En cas de malheur et de calamité",
+      "nl": "Ten tijde van onheil en rampspoed",
+      "uz": "Musibat va ofat vaqtida",
+      "ms": "Ketika Ditimpa Musibah",
+      "ru": "Во время бедствий и катастроф"
+    },
+    "pronunciation": {
+      "tr": "İnnâ lillâhi ve innâ ileyhi râciûn. Allâhümme'cürnî fî musîbetî ve ahlif lî hayran minhâ.",
+      "en": "İnnâ lillâhi ve innâ ileyhi râciûn. Allâhümme'cürnî fî musîbetî ve ahlif lî hayran minhâ.",
+      "ar": "İnnâ lillâhi ve innâ ileyhi râciûn. Allâhümme'cürnî fî musîbetî ve ahlif lî hayran minhâ.",
+      "de": "İnnâ lillâhi ve innâ ileyhi râciûn. Allâhümme'cürnî fî musîbetî ve ahlif lî hayran minhâ.",
+      "fr": "İnnâ lillâhi ve innâ ileyhi râciûn. Allâhümme'cürnî fî musîbetî ve ahlif lî hayran minhâ.",
+      "nl": "İnnâ lillâhi ve innâ ileyhi râciûn. Allâhümme'cürnî fî musîbetî ve ahlif lî hayran minhâ.",
+      "uz": "İnnâ lillâhi ve innâ ileyhi râciûn. Allâhümme'cürnî fî musîbetî ve ahlif lî hayran minhâ.",
+      "ms": "İnnâ lillâhi ve innâ ileyhi râciûn. Allâhümme'cürnî fî musîbetî ve ahlif lî hayran minhâ.",
+      "ru": "İnnâ lillâhi ve innâ ileyhi râciûn. Allâhümme'cürnî fî musîbetî ve ahlif lî hayran minhâ."
+    },
+    "translation": {
+      "tr": "Biz şüphesiz (her şeyimizle) Allah'a aidiz ve şüphesiz O'na döneceğiz. Allah'ım! Bu musibetimden dolayı bana ecir ver ve bana bunun yerine daha hayırlısını ihsan eyle.",
+      "en": "Indeed, we belong to Allah, and indeed to Him we will return. O Allah! Reward me for my affliction and compensate me with something better than it.",
+      "ar": "إنا لله وإنا إليه راجعون. اللهم أجرني في مصيبتي وأخلف لي خيرا منها.",
+      "de": "Wir gehören Allah und zu Ihm kehren wir zurück. O Allah! Belohne mich in meinem Unglück und ersetze es mir durch etwas Besseres.",
+      "fr": "C'est à Allah que nous appartenons et c'est à Lui que nous retournerons. Ô Allah ! Récompense-moi dans mon épreuve et remplace-la moi par quelque chose de meilleur.",
+      "nl": "Waarlijk, wij behoren aan Allah toe en voorwaar, tot Hem zullen wij terugkeren. O Allah! Beloon mij voor mijn beproeving en vervang deze door iets beters.",
+      "uz": "Albatta, biz Allohnikimiz va albatta, Uning O'ziga qaytuvchimiz. Yo Alloh! Bu musibatim uchun menga ajr ber va uning o'rniga undan yaxshirog'ini ato et.",
+      "ms": "Sesungguhnya kami adalah milik Allah dan kepada-Nya jua kami kembali. Ya Allah! Berilah pahala kepadaku dalam musibahku ini dan gantikanlah untukku dengan sesuatu yang lebih baik daripadanya.",
+      "ru": "Воистину, мы принадлежим Аллаху и к Нему мы вернемся. О Аллах! Вознагради меня в моем несчастье и замени его для меня тем, что лучше."
+    },
+    "source": {
+      "tr": "Müslim, Cenâiz, 3",
+      "en": "Muslim, Jana'iz, 3",
+      "ar": "مسلم، الجنائز، 3",
+      "de": "Muslim, Jana'iz, 3",
+      "fr": "Mouslim, Funérailles, 3",
+      "nl": "Muslim, Jana'iz, 3",
+      "uz": "Muslim, Janoiz, 3",
+      "ms": "Muslim, Jenazah, 3",
+      "ru": "Муслим, Джанаиз, 3"
+    }
+  },
+  {
+    "id": "d120",
+    "arabic": "سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ، وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُونَ",
+    "category": {
+      "tr": "Günlük Yaşam",
+      "en": "Daily Life",
+      "ar": "الحياة اليومية",
+      "de": "Alltagsleben",
+      "fr": "Vie Quotidienne",
+      "nl": "Dagelijks Leven",
+      "uz": "Kundalik Hayot",
+      "ms": "Kehidupan Harian",
+      "ru": "Повседневная Жизнь"
+    },
+    "title": {
+      "tr": "Araç (Taşıt) Kullanırken",
+      "en": "When Riding a Vehicle",
+      "ar": "دعاء ركوب الدابة (السيارة)",
+      "de": "Beim Fahren eines Fahrzeugs",
+      "fr": "En montant dans un véhicule",
+      "nl": "Tijdens het besturen van een voertuig",
+      "uz": "Ulovga (transportga) minganda",
+      "ms": "Doa Menaiki Kenderaan",
+      "ru": "Во время поездки на транспорте"
+    },
+    "pronunciation": {
+      "tr": "Sübhânellezî sahhara lenâ hâzâ ve mâ künnâ lehû mukrinîn. Ve innâ ilâ Rabbinâ lemünkalibûn.",
+      "en": "Sübhânellezî sahhara lenâ hâzâ ve mâ künnâ lehû mukrinîn. Ve innâ ilâ Rabbinâ lemünkalibûn.",
+      "ar": "Sübhânellezî sahhara lenâ hâzâ ve mâ künnâ lehû mukrinîn. Ve innâ ilâ Rabbinâ lemünkalibûn.",
+      "de": "Sübhânellezî sahhara lenâ hâzâ ve mâ künnâ lehû mukrinîn. Ve innâ ilâ Rabbinâ lemünkalibûn.",
+      "fr": "Sübhânellezî sahhara lenâ hâzâ ve mâ künnâ lehû mukrinîn. Ve innâ ilâ Rabbinâ lemünkalibûn.",
+      "nl": "Sübhânellezî sahhara lenâ hâzâ ve mâ künnâ lehû mukrinîn. Ve innâ ilâ Rabbinâ lemünkalibûn.",
+      "uz": "Sübhânellezî sahhara lenâ hâzâ ve mâ künnâ lehû mukrinîn. Ve innâ ilâ Rabbinâ lemünkalibûn.",
+      "ms": "Sübhânellezî sahhara lenâ hâzâ ve mâ künnâ lehû mukrinîn. Ve innâ ilâ Rabbinâ lemünkalibûn.",
+      "ru": "Sübhânellezî sahhara lenâ hâzâ ve mâ künnâ lehû mukrinîn. Ve innâ ilâ Rabbinâ lemünkalibûn."
+    },
+    "translation": {
+      "tr": "Bunu (bu bineği/aracı) bizim hizmetimize veren Allah'ı tesbih ederiz, yoksa biz buna güç yetiremezdik. Biz şüphesiz Rabbimize döneceğiz.",
+      "en": "Glory be to the One who has subjected this for us, for we could not have done it by ourselves. And indeed to our Lord we will return.",
+      "ar": "سبحان الذي سخر لنا هذا وما كنا له مقرنين، وإنا إلى ربنا لمنقلبون.",
+      "de": "Gepriesen sei Er, Der uns dies dienstbar gemacht hat, andernfalls hätten wir es nicht bezwingen können. Und zu unserem Herrn werden wir gewiss zurückkehren.",
+      "fr": "Gloire à Celui qui nous a soumis cela, alors que nous n'étions pas capables de le dominer. Et c'est vers notre Seigneur que nous retournerons.",
+      "nl": "Glorie zij Hem die dit aan ons dienstbaar heeft gemaakt, want we hadden dit zelf niet gekund. En voorwaar, tot onze Heer zullen we terugkeren.",
+      "uz": "Buni (bu ulovni) bizga bo'ysundirgan Zot pokdir. Biz bunga qodir emas edik. Va albatta, biz Parvardigorimizga qaytuvchimiz.",
+      "ms": "Maha Suci Tuhan yang telah menundukkan kenderaan ini untuk kami, padahal kami sebelum ini tidak mampu menguasainya. Dan sesungguhnya kepada Tuhan kamilah, kami akan kembali.",
+      "ru": "Пречист Тот, Кто подчинил нам это, ведь мы сами на такое были не способны. И поистине, к нашему Господу мы вернемся."
+    },
+    "source": {
+      "tr": "Zuhruf Suresi, 13-14",
+      "en": "Surah Az-Zukhruf, 13-14",
+      "ar": "سورة الزخرف، 13-14",
+      "de": "Sure Az-Zukhruf, 13-14",
+      "fr": "Sourate Az-Zukhruf, 13-14",
+      "nl": "Surah Az-Zukhruf, 13-14",
+      "uz": "Zuxruf surasi, 13-14",
+      "ms": "Surah Az-Zukhruf, 13-14",
+      "ru": "Сура Аз-Зухруф, 13-14"
+    }
+  },
+  {
+    "id": "d121",
+    "arabic": "ذَهَبَ الظَّمَأُ وَابْتَلَّتِ الْعُرُوقُ وَثَبَتَ الأَجْرُ إِنْ شَاءَ اللَّهُ",
+    "category": {
+      "tr": "Ramazan & Oruç",
+      "en": "Ramadan & Fasting",
+      "ar": "رمضان والصيام",
+      "de": "Ramadan & Fasten",
+      "fr": "Ramadan & Jeûne",
+      "nl": "Ramadan & Vasten",
+      "uz": "Ramazon va Ro'za",
+      "ms": "Ramadan & Puasa",
+      "ru": "Рамадан и Пост"
+    },
+    "title": {
+      "tr": "İftarı Açarken Okunan Dua",
+      "en": "Prayer While Breaking Fast (Iftar)",
+      "ar": "دعاء عند الإفطار",
+      "de": "Gebet beim Fastenbrechen (Iftar)",
+      "fr": "Prière lors de la rupture du jeûne",
+      "nl": "Gebed bij het verbreken van het vasten",
+      "uz": "Iftorlikda o'qiladigan duo",
+      "ms": "Doa Ketika Berbuka Puasa",
+      "ru": "Молитва при разговении (Ифтар)"
+    },
+    "pronunciation": {
+      "tr": "Zehebe'z-zamaü vebtelleti'l-urûku ve sebete'l-ecru inşâellâh.",
+      "en": "Zehebe'z-zamaü vebtelleti'l-urûku ve sebete'l-ecru inşâellâh.",
+      "ar": "Zehebe'z-zamaü vebtelleti'l-urûku ve sebete'l-ecru inşâellâh.",
+      "de": "Zehebe'z-zamaü vebtelleti'l-urûku ve sebete'l-ecru inşâellâh.",
+      "fr": "Zehebe'z-zamaü vebtelleti'l-urûku ve sebete'l-ecru inşâellâh.",
+      "nl": "Zehebe'z-zamaü vebtelleti'l-urûku ve sebete'l-ecru inşâellâh.",
+      "uz": "Zehebe'z-zamaü vebtelleti'l-urûku ve sebete'l-ecru inşâellâh.",
+      "ms": "Zehebe'z-zamaü vebtelleti'l-urûku ve sebete'l-ecru inşâellâh.",
+      "ru": "Zehebe'z-zamaü vebtelleti'l-urûku ve sebete'l-ecru inşâellâh."
+    },
+    "translation": {
+      "tr": "Susuzluk gitti, damarlar ıslandı ve inşallah mükafat kesinleşti.",
+      "en": "The thirst has gone, the veins are moistened, and the reward is confirmed, if Allah wills.",
+      "ar": "ذهب الظمأ وابتلت العروق وثبت الأجر إن شاء الله.",
+      "de": "Der Durst ist gestillt, die Adern sind befeuchtet und der Lohn ist gesichert, so Allah will.",
+      "fr": "La soif s'est dissipée, les veines sont humidifiées et la récompense est confirmée, si Allah le veut.",
+      "nl": "De dorst is gelest, de aderen zijn bevochtigd en de beloning is verzekerd, als Allah het wil.",
+      "uz": "Chanqoq ketdi, tomirlar namlandi va inshaalloh, ajr-savob muqarrar bo'ldi.",
+      "ms": "Telah hilang dahaga, telah basah urat-urat, dan telah ditetapkan pahala, insya-Allah.",
+      "ru": "Жажда ушла, жилы наполнились влагой, и награда уже ждет, если того пожелает Аллах."
+    },
+    "source": {
+      "tr": "Ebû Dâvûd, Savm, 22",
+      "en": "Abu Dawud, Sawm, 22",
+      "ar": "أبو داود، الصوم، 22",
+      "de": "Abu Dawud, Sawm, 22",
+      "fr": "Abou Daoud, Jeûne, 22",
+      "nl": "Abu Dawud, Sawm, 22",
+      "uz": "Abu Dovud, Savm, 22",
+      "ms": "Abu Dawud, Puasa, 22",
+      "ru": "Абу Дауд, Савм, 22"
+    }
+  },
+  {
+    "id": "d122",
+    "arabic": "اللَّهُمَّ إِنَّكَ عَفُوٌّ تُحِبِّ الْعَفْوَ فَاعْفُ عَنِّي",
+    "category": {
+      "tr": "Ramazan & Oruç",
+      "en": "Ramadan & Fasting",
+      "ar": "رمضان والصيام",
+      "de": "Ramadan & Fasten",
+      "fr": "Ramadan & Jeûne",
+      "nl": "Ramadan & Vasten",
+      "uz": "Ramazon va Ro'za",
+      "ms": "Ramadan & Puasa",
+      "ru": "Рамадан и Пост"
+    },
+    "title": {
+      "tr": "Kadir Gecesi Duası",
+      "en": "Night of Decree Prayer (Laylat al-Qadr)",
+      "ar": "دعاء ليلة القدر",
+      "de": "Gebet für die Nacht der Bestimmung",
+      "fr": "Prière de la Nuit du Destin",
+      "nl": "Gebed voor de Waardevolle Nacht",
+      "uz": "Qadr kechasi duosi",
+      "ms": "Doa Malam Lailatul Qadar",
+      "ru": "Молитва в Ночь Предопределения"
+    },
+    "pronunciation": {
+      "tr": "Allâhümme inneke afüvvün tühıbbü'l-afve fa'fü annî.",
+      "en": "Allâhümme inneke afüvvün tühıbbü'l-afve fa'fü annî.",
+      "ar": "Allâhümme inneke afüvvün tühıbbü'l-afve fa'fü annî.",
+      "de": "Allâhümme inneke afüvvün tühıbbü'l-afve fa'fü annî.",
+      "fr": "Allâhümme inneke afüvvün tühıbbü'l-afve fa'fü annî.",
+      "nl": "Allâhümme inneke afüvvün tühıbbü'l-afve fa'fü annî.",
+      "uz": "Allâhümme inneke afüvvün tühıbbü'l-afve fa'fü annî.",
+      "ms": "Allâhümme inneke afüvvün tühıbbü'l-afve fa'fü annî.",
+      "ru": "Allâhümme inneke afüvvün tühıbbü'l-afve fa'fü annî."
+    },
+    "translation": {
+      "tr": "Allah'ım! Sen affedicisin, affetmeyi seversin, beni de affet.",
+      "en": "O Allah! You are Forgiving, You love forgiveness, so forgive me.",
+      "ar": "اللهم إنك عفو تحب العفو فاعف عني.",
+      "de": "O Allah! Du bist verzeihend, Du liebst das Verzeihen, also verzeih mir.",
+      "fr": "Ô Allah ! Tu es pardonneur, Tu aimes pardonner, alors pardonne-moi.",
+      "nl": "O Allah! U bent vergevingsgezind, U houdt van vergeven, vergeef mij dus.",
+      "uz": "Yo Alloh! Sen kechirguvchisan, kechirishni yaxshi ko'rasan, meni ham kechir.",
+      "ms": "Ya Allah! Sesungguhnya Engkau Maha Pengampun, Engkau suka mengampun, maka ampunilah aku.",
+      "ru": "О Аллах! Поистине, Ты — Прощающий, Ты любишь прощать, так прости же меня."
+    },
+    "source": {
+      "tr": "Tirmizî, Deavât, 84",
+      "en": "Tirmidhi, Da'awat, 84",
+      "ar": "الترمذي، الدعوات، 84",
+      "de": "Tirmidhi, Da'awat, 84",
+      "fr": "Tirmidhi, Da'awat, 84",
+      "nl": "Tirmidhi, Da'awat, 84",
+      "uz": "Termiziy, Daavot, 84",
+      "ms": "Tirmidhi, Da'awat, 84",
+      "ru": "Тирмизи, Даават, 84"
+    }
+  },
+  {
+    "id": "d123",
+    "arabic": "رَبِّ ارْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيرًا",
+    "category": {
+      "tr": "Kuran Duaları",
+      "en": "Quranic Duas",
+      "ar": "أدعية قرآنية",
+      "de": "Koranische Duas",
+      "fr": "Invocations Coraniques",
+      "nl": "Koran Smeekbeden",
+      "uz": "Qur'on Duolari",
+      "ms": "Doa Al-Quran",
+      "ru": "Коранические Дуа"
+    },
+    "title": {
+      "tr": "Ana-Baba İçin Kuran Duası",
+      "en": "Quranic Prayer for Parents",
+      "ar": "دعاء قرآني للوالدين",
+      "de": "Koranisches Gebet für die Eltern",
+      "fr": "Prière coranique pour les parents",
+      "nl": "Koranisch gebed voor ouders",
+      "uz": "Ota-ona uchun Qur'on duosi",
+      "ms": "Doa Al-Quran untuk Ibu Bapa",
+      "ru": "Кораническая молитва за родителей"
+    },
+    "pronunciation": {
+      "tr": "Rabbirhamhümâ kemâ rabbeyânî sağîrâ.",
+      "en": "Rabbirhamhümâ kemâ rabbeyânî sağîrâ.",
+      "ar": "Rabbirhamhümâ kemâ rabbeyânî sağîrâ.",
+      "de": "Rabbirhamhümâ kemâ rabbeyânî sağîrâ.",
+      "fr": "Rabbirhamhümâ kemâ rabbeyânî sağîrâ.",
+      "nl": "Rabbirhamhümâ kemâ rabbeyânî sağîrâ.",
+      "uz": "Rabbirhamhümâ kemâ rabbeyânî sağîrâ.",
+      "ms": "Rabbirhamhümâ kemâ rabbeyânî sağîrâ.",
+      "ru": "Rabbirhamhümâ kemâ rabbeyânî sağîrâ."
+    },
+    "translation": {
+      "tr": "Rabbim! Küçüklüğümde onlar beni nasıl yetiştirmişlerse, şimdi de sen onlara (öyle) merhamet et.",
+      "en": "My Lord! Have mercy upon them as they brought me up [when I was] small.",
+      "ar": "رب ارحمهما كما ربياني صغيرا.",
+      "de": "Mein Herr! Erbarme Dich ihrer, wie sie mich aufgezogen haben, als ich klein war.",
+      "fr": "Mon Seigneur ! Fais-leur miséricorde comme ils m'ont élevé lorsque j'étais tout petit.",
+      "nl": "Mijn Heer! Ontferm U over hen, zoals zij mij hebben opgevoed toen ik klein was.",
+      "uz": "Parvardigorim! Ular meni kichikligimda tarbiya qilganlaridek, Sen ham ularga rahm qil.",
+      "ms": "Wahai Tuhanku! Cucurilah rahmat kepada mereka berdua sebagaimana mereka telah mencurahkan kasih sayang memelihara dan mendidikku semasa kecil.",
+      "ru": "Господи! Помилуй их, ведь они растили меня, когда я был маленьким."
+    },
+    "source": {
+      "tr": "İsrâ Suresi, 24",
+      "en": "Surah Al-Isra, 24",
+      "ar": "سورة الإسراء، 24",
+      "de": "Sure Al-Isra, 24",
+      "fr": "Sourate Al-Isra, 24",
+      "nl": "Surah Al-Isra, 24",
+      "uz": "Isro surasi, 24",
+      "ms": "Surah Al-Isra', 24",
+      "ru": "Сура Аль-Исра, 24"
+    }
+  },
+  {
+    "id": "d124",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْهُدَى وَالتُّقَى وَالْعَفَافَ وَالْغِنَى",
+    "category": {
+      "tr": "Tevbe & İstiğfar",
+      "en": "Repentance",
+      "ar": "التوبة والاستغفار",
+      "de": "Reue & Vergebung",
+      "fr": "Repentir",
+      "nl": "Berouw",
+      "uz": "Tavba va Istig'for",
+      "ms": "Taubat & Istighfar",
+      "ru": "Покаяние"
+    },
+    "title": {
+      "tr": "Hidayet ve Takva İsteme",
+      "en": "Asking for Guidance and Piety",
+      "ar": "طلب الهداية والتقوى",
+      "de": "Bitte um Rechtleitung und Gottesfurcht",
+      "fr": "Demande de guidée et de piété",
+      "nl": "Vragen om leiding en vroomheid",
+      "uz": "Hidoyat va taqvo so'rash",
+      "ms": "Memohon Hidayah dan Ketakwaan",
+      "ru": "Просьба о прямом пути и богобоязненности"
+    },
+    "pronunciation": {
+      "tr": "Allâhümme innî es'elüke'l-hüdâ ve't-tükâ ve'l-afâfe ve'l-ğınâ.",
+      "en": "Allâhümme innî es'elüke'l-hüdâ ve't-tükâ ve'l-afâfe ve'l-ğınâ.",
+      "ar": "Allâhümme innî es'elüke'l-hüdâ ve't-tükâ ve'l-afâfe ve'l-ğınâ.",
+      "de": "Allâhümme innî es'elüke'l-hüdâ ve't-tükâ ve'l-afâfe ve'l-ğınâ.",
+      "fr": "Allâhümme innî es'elüke'l-hüdâ ve't-tükâ ve'l-afâfe ve'l-ğınâ.",
+      "nl": "Allâhümme innî es'elüke'l-hüdâ ve't-tükâ ve'l-afâfe ve'l-ğınâ.",
+      "uz": "Allâhümme innî es'elüke'l-hüdâ ve't-tükâ ve'l-afâfe ve'l-ğınâ.",
+      "ms": "Allâhümme innî es'elüke'l-hüdâ ve't-tükâ ve'l-afâfe ve'l-ğınâ.",
+      "ru": "Allâhümme innî es'elüke'l-hüdâ ve't-tükâ ve'l-afâfe ve'l-ğınâ."
+    },
+    "translation": {
+      "tr": "Allah'ım! Senden hidayet, takva, iffet ve (gönül) zenginliği isterim.",
+      "en": "O Allah! I ask You for guidance, piety, chastity and wealth (of heart).",
+      "ar": "اللهم إني أسألك الهدى والتقى والعفاف والغنى.",
+      "de": "O Allah! Ich bitte Dich um Rechtleitung, Gottesfurcht, Keuschheit und (innere) Reichtum.",
+      "fr": "Ô Allah ! Je Te demande la guidée, la piété, la chasteté et la richesse (du cœur).",
+      "nl": "O Allah! Ik vraag U om leiding, vroomheid, kuisheid en (innerlijke) rijkdom.",
+      "uz": "Yo Alloh! Sendan hidoyat, taqvo, iffat va (qalb) boyligini so'rayman.",
+      "ms": "Ya Allah! Sesungguhnya aku memohon kepada-Mu petunjuk, ketakwaan, kehormatan diri dan kekayaan (jiwa).",
+      "ru": "О Аллах! Я прошу у Тебя прямого пути, богобоязненности, целомудрия и богатства (души)."
+    },
+    "source": {
+      "tr": "Müslim, Zikir, 72",
+      "en": "Muslim, Dhikr, 72",
+      "ar": "مسلم، الذكر، 72",
+      "de": "Muslim, Dhikr, 72",
+      "fr": "Mouslim, Dhikr, 72",
+      "nl": "Muslim, Dhikr, 72",
+      "uz": "Muslim, Zikr, 72",
+      "ms": "Muslim, Zikir, 72",
+      "ru": "Муслим, Зикр, 72"
+    }
+  }
+]
